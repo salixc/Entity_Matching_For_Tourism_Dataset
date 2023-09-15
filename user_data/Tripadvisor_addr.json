@@ -1,0 +1,8276 @@
+[
+  {
+    "id": "T0",
+    "行政区": "北区",
+    "Location": [
+      114.144162,
+      22.501267
+    ],
+    "Name": "马宝宝社区农场",
+    "Address": "粉岭马屎埔村, 香港, 中国",
+    "District": "粉岭马屎埔村",
+    "RoadInfo": "",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T1",
+    "行政区": "U",
+    "Location": [
+      null,
+      null
+    ],
+    "Name": "Tat Tak Communal Hall",
+    "Address": "屏山翠星路，香港, 中国",
+    "District": "屏山",
+    "RoadInfo": "翠星路",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T2",
+    "行政区": "东区",
+    "Location": [
+      114.212571,
+      22.288677
+    ],
+    "Name": "Arte M Hong Kong",
+    "Address": "香港七姊妹英皇道728号，香港, 中国",
+    "District": "",
+    "RoadInfo": "英皇道728号",
+    "Poi": "七姊妹",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T3",
+    "行政区": "深水埗区",
+    "Location": [
+      114.164724,
+      22.327087
+    ],
+    "Name": "Tai Nan Street",
+    "Address": "大南街，香港, 中国",
+    "District": "",
+    "RoadInfo": "大南街",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T4",
+    "行政区": "元朗区",
+    "Location": [
+      114.066432,
+      22.442805
+    ],
+    "Name": "Lik Wing Tong Study Hall",
+    "Address": "新界锦田水头村85号，香港, 中国",
+    "District": "锦田水头村",
+    "RoadInfo": "",
+    "Poi": "",
+    "RoomInfo": "85号"
+  },
+  {
+    "id": "T5",
+    "行政区": "U",
+    "Location": [
+      null,
+      null
+    ],
+    "Name": "Kwun Yum Temple (ap Lei Chau)",
+    "Address": "鸭脷洲正街181号，风塔公园，香港, 中国",
+    "District": "",
+    "RoadInfo": "鸭脷洲正街181号",
+    "Poi": "风塔公园",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T6",
+    "行政区": "油尖旺区",
+    "Location": [
+      114.176268,
+      22.302908
+    ],
+    "Name": "Pei Ho Street",
+    "Address": "九龙深水埗北河街，香港, 中国",
+    "District": "深水埗",
+    "RoadInfo": "北河街",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T7",
+    "行政区": "中西区",
+    "Location": [
+      114.153542,
+      22.281901
+    ],
+    "Name": "Taipingshan Medical Heritage Trail",
+    "Address": "太平山街，香港, 中国",
+    "District": "",
+    "RoadInfo": "太平山街",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T8",
+    "行政区": "U",
+    "Location": [
+      null,
+      null
+    ],
+    "Name": "Monk Rock",
+    "Address": "蒲台岛，香港, 中国",
+    "District": "蒲台岛",
+    "RoadInfo": "",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T9",
+    "行政区": "深水埗区",
+    "Location": [
+      114.165547,
+      22.326974
+    ],
+    "Name": "Kweilin Street",
+    "Address": "桂林街，香港, 中国",
+    "District": "",
+    "RoadInfo": "桂林街",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T10",
+    "行政区": "沙田区",
+    "Location": [
+      114.194239,
+      22.380527
+    ],
+    "Name": "Fat Jong Temple",
+    "Address": "沙田关道175号，香港, 中国",
+    "District": "沙田",
+    "RoadInfo": "关道175号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T11",
+    "行政区": "中西区",
+    "Location": [
+      114.162952,
+      22.282068
+    ],
+    "Name": "Statue of George VI",
+    "Address": "中环奥尔巴尼道，香港, 中国",
+    "District": "中环",
+    "RoadInfo": "奥尔巴尼道",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T12",
+    "行政区": "U",
+    "Location": [
+      null,
+      null
+    ],
+    "Name": "Prince Edward Road Shophouses",
+    "Address": "爱德华王子西路190-204号和210-212号，香港, 中国",
+    "District": "",
+    "RoadInfo": "爱德华王子西路190-204号210-212号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T13",
+    "行政区": "U",
+    "Location": [
+      114.163825,
+      22.276284
+    ],
+    "Name": "Po Toi Island Gold Panning Cliff",
+    "Address": "香港区域: 中环",
+    "District": "区域",
+    "RoadInfo": "",
+    "Poi": " 中环",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T14",
+    "行政区": "九龙城区",
+    "Location": [
+      114.193829,
+      22.31449
+    ],
+    "Name": "Tin Hau Temple (to Kwa Wan)",
+    "Address": "香港九龙土瓜湾下乡道49号",
+    "District": "九龙土瓜湾",
+    "RoadInfo": "下乡道49号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T15",
+    "行政区": "U",
+    "Location": [
+      null,
+      null
+    ],
+    "Name": "Lo So Shing Sitting-out Area",
+    "Address": "南丫岛，香港, 中国",
+    "District": "南丫岛",
+    "RoadInfo": "",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T16",
+    "行政区": "U",
+    "Location": [
+      113.339069,
+      22.707437
+    ],
+    "Name": "Ap Lei Chau Waterfront Promenade",
+    "Address": "鸭脷洲洪盛街，香港, 中国",
+    "District": "鸭脷洲",
+    "RoadInfo": "洪盛街",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T17",
+    "行政区": "定海区",
+    "Location": [
+      122.106916,
+      30.0124
+    ],
+    "Name": "Hoi Sham Park",
+    "Address": "土瓜湾海深公园，香港, 中国",
+    "District": "土瓜湾",
+    "RoadInfo": "",
+    "Poi": "海深公园",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T18",
+    "行政区": "U",
+    "Location": [
+      null,
+      null
+    ],
+    "Name": "Ngau Wu Teng Pavilion",
+    "Address": "蒲台乡村径，香港, 中国",
+    "District": "蒲台乡村径",
+    "RoadInfo": "",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T19",
+    "行政区": "深水埗区",
+    "Location": [
+      114.160455,
+      22.329128
+    ],
+    "Name": "Sham Shui Po Park",
+    "Address": "荔枝角道733号，香港, 中国",
+    "District": "",
+    "RoadInfo": "荔枝角道733号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T20",
+    "行政区": "元朗区",
+    "Location": [
+      114.066432,
+      22.442805
+    ],
+    "Name": "Hung Shing Temple (kam Tin)",
+    "Address": "新界锦田水头村31号，香港, 中国",
+    "District": "锦田水头村",
+    "RoadInfo": "",
+    "Poi": "",
+    "RoomInfo": "31号"
+  },
+  {
+    "id": "T21",
+    "行政区": "U",
+    "Location": [
+      null,
+      null
+    ],
+    "Name": "London Mission Building",
+    "Address": "罗宾逊路79-80号，香港, 中国",
+    "District": "",
+    "RoadInfo": "罗宾逊路79-80号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T22",
+    "行政区": "黄大仙区",
+    "Location": [
+      114.201561,
+      22.334873
+    ],
+    "Name": "Choi Hung Road Playground",
+    "Address": "新蒲岗彩虹道150号，香港, 中国",
+    "District": "新蒲岗",
+    "RoadInfo": "彩虹道150号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T23",
+    "行政区": "湾仔区",
+    "Location": [
+      114.192616,
+      22.274049
+    ],
+    "Name": "Olympic Square",
+    "Address": "棉花路19号，香港, 中国",
+    "District": "",
+    "RoadInfo": "棉花路19号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T24",
+    "行政区": "北区",
+    "Location": [
+      114.190485,
+      22.487813
+    ],
+    "Name": "鹤薮水塘",
+    "Address": "八仙岭, 香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "八仙岭",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T25",
+    "行政区": "中西区",
+    "Location": [
+      114.147035,
+      22.287196
+    ],
+    "Name": "中西区海滨长廊 - 西区副食品批发市场段",
+    "Address": "石塘咀, 香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "石塘咀",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T26",
+    "行政区": "永济市",
+    "Location": [
+      110.440704,
+      34.872613
+    ],
+    "Name": "Belcher Bay Park",
+    "Address": "西厢北街，香港, 中国",
+    "District": "",
+    "RoadInfo": "西厢北街",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T27",
+    "行政区": "深水埗区",
+    "Location": [
+      114.164266,
+      22.327434
+    ],
+    "Name": "Sham Shui Po Police Station",
+    "Address": "钦州街37A号，, 中国",
+    "District": "",
+    "RoadInfo": "钦州街37A号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T28",
+    "行政区": "榕江县",
+    "Location": [
+      108.242632,
+      25.950782
+    ],
+    "Name": "Possession Street",
+    "Address": "管有街，香港, 中国",
+    "District": "",
+    "RoadInfo": "管有街",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T29",
+    "行政区": "平阳县",
+    "Location": [
+      120.320129,
+      27.634628
+    ],
+    "Name": "Tang Kwong U Ancestral Hall",
+    "Address": "金田水头32号，香港, 中国",
+    "District": "水头",
+    "RoadInfo": "",
+    "Poi": "金田",
+    "RoomInfo": "32号"
+  },
+  {
+    "id": "T30",
+    "行政区": "U",
+    "Location": [
+      null,
+      null
+    ],
+    "Name": "Kai Tak River Trail",
+    "Address": "启德河，香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "启德河",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T31",
+    "行政区": "U",
+    "Location": [
+      null,
+      null
+    ],
+    "Name": "Kings College",
+    "Address": "薄咸道63a号，, 中国",
+    "District": "",
+    "RoadInfo": "薄咸道63a号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T32",
+    "行政区": "大埔区",
+    "Location": [
+      114.185449,
+      22.440457
+    ],
+    "Name": "Historic Tai Po Kau Ferry Pier",
+    "Address": "吐露港公园，香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "吐露港公园",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T33",
+    "行政区": "U",
+    "Location": [
+      null,
+      null
+    ],
+    "Name": "Battery Path",
+    "Address": "电池路径，香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "电池路径",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T34",
+    "行政区": "南区",
+    "Location": [
+      114.253708,
+      22.232214
+    ],
+    "Name": "Shek O Blue Bridge",
+    "Address": "石澳海岬道，香港, 中国",
+    "District": "石澳",
+    "RoadInfo": "海岬道",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T35",
+    "行政区": "深水埗区",
+    "Location": [
+      114.170129,
+      22.32394
+    ],
+    "Name": "Lung Hing Tong",
+    "Address": "九龙基隆街92-94号，香港, 中国",
+    "District": "",
+    "RoadInfo": "基隆街92-94号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T36",
+    "行政区": "U",
+    "Location": [
+      null,
+      null
+    ],
+    "Name": "Yue Man Hawker Bazaar",
+    "Address": "B1/f.中。，合和街33号，, 中国",
+    "District": "",
+    "RoadInfo": "合和街33号",
+    "Poi": "B1/f.中。",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T37",
+    "行政区": "大埔区",
+    "Location": [
+      114.312356,
+      22.423669
+    ],
+    "Name": "Lime Kiln At Hoi Ha Village",
+    "Address": "西贡西郊野公园海下自然径，香港, 中国",
+    "District": "西贡",
+    "RoadInfo": "",
+    "Poi": "西郊野公园海下自然径",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T38",
+    "行政区": "中西区",
+    "Location": [
+      114.162952,
+      22.282068
+    ],
+    "Name": "Li Yuen Streets East And West",
+    "Address": "荔园东街，香港, 中国",
+    "District": "",
+    "RoadInfo": "荔园东街",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T39",
+    "行政区": "U",
+    "Location": [
+      113.361866,
+      22.519241
+    ],
+    "Name": "Tung Chung Art Walk",
+    "Address": "东涌逸东村，香港, 中国",
+    "District": "东涌逸东村",
+    "RoadInfo": "",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T40",
+    "行政区": "湾仔区",
+    "Location": [
+      114.192616,
+      22.274049
+    ],
+    "Name": "Central Garden Fountain",
+    "Address": "棉花路19号，香港, 中国",
+    "District": "",
+    "RoadInfo": "棉花路19号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T41",
+    "行政区": "油尖旺区",
+    "Location": [
+      114.173839,
+      22.293338
+    ],
+    "Name": "Old Kowloon Fire Station",
+    "Address": "梳士巴利道33号，香港, 中国",
+    "District": "",
+    "RoadInfo": "梳士巴利道33号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T42",
+    "行政区": "油尖旺区",
+    "Location": [
+      114.176268,
+      22.302908
+    ],
+    "Name": "Former South Kowloon District Court",
+    "Address": "加士居道38号，香港, 中国",
+    "District": "",
+    "RoadInfo": "加士居道38号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T43",
+    "行政区": "屯门区",
+    "Location": [
+      113.979991,
+      22.395616
+    ],
+    "Name": "Fa Pau Exhibition Hall",
+    "Address": "屯门鸿翔路3号，香港, 中国",
+    "District": "屯门",
+    "RoadInfo": "鸿翔路3号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T44",
+    "行政区": "屯门区",
+    "Location": [
+      113.979707,
+      22.39125
+    ],
+    "Name": "爬虫馆",
+    "Address": "屯门乡事会路，香港, 中国",
+    "District": "屯门乡",
+    "RoadInfo": "事会路",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T45",
+    "行政区": "南区",
+    "Location": [
+      114.242013,
+      22.240299
+    ],
+    "Name": "砵甸乍山",
+    "Address": "石澳郊野公园, 香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "石澳郊野公园",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T46",
+    "行政区": "U",
+    "Location": [
+      null,
+      null
+    ],
+    "Name": "Rock Inscription At Joss House Bay",
+    "Address": "西贡Joss House湾，, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "西贡Joss House湾",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T47",
+    "行政区": "九龙城区",
+    "Location": [
+      114.199157,
+      22.317687
+    ],
+    "Name": "13 Streets",
+    "Address": "马头角，香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "马头角",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T48",
+    "行政区": "浦东新区",
+    "Location": [
+      121.607892,
+      31.330793
+    ],
+    "Name": "Former Western Fire Station",
+    "Address": "贝尔彻街12号，香港, 中国",
+    "District": "",
+    "RoadInfo": "贝尔彻街12号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T49",
+    "行政区": "油尖旺区",
+    "Location": [
+      114.176268,
+      22.302908
+    ],
+    "Name": "Yau Ma Tei Theatre",
+    "Address": "上海街176号，香港, 中国",
+    "District": "",
+    "RoadInfo": "上海街176号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T50",
+    "行政区": "湾仔区",
+    "Location": [
+      114.184977,
+      22.271863
+    ],
+    "Name": "Penfold Park",
+    "Address": "香港赛马会沙田赛马场，香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "香港赛马会沙田赛马场",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T51",
+    "行政区": "屯门区",
+    "Location": [
+      113.979363,
+      22.393569
+    ],
+    "Name": "大金钟",
+    "Address": "香港区域: 新界",
+    "District": "区域",
+    "RoadInfo": "",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T52",
+    "行政区": "番禺区",
+    "Location": [
+      113.367022,
+      22.950928
+    ],
+    "Name": "Rock Carving At Shek Pik",
+    "Address": "石壁，香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "石壁",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T53",
+    "行政区": "荃湾区",
+    "Location": [
+      114.111048,
+      22.402058
+    ],
+    "Name": "Historical Structures Of Aberdeen Reservoir",
+    "Address": "香港仔郊野公园，香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "香港仔郊野公园",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T54",
+    "行政区": "南区",
+    "Location": [
+      114.253708,
+      22.232214
+    ],
+    "Name": "Shek O Headland Picnic Area",
+    "Address": "石澳海岬道，香港, 中国",
+    "District": "石澳",
+    "RoadInfo": "海岬道",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T55",
+    "行政区": "U",
+    "Location": [
+      null,
+      null
+    ],
+    "Name": "Hung Shing Temple (po Toi O)",
+    "Address": "新界西贡蒲台澳。，香港, 中国",
+    "District": "西贡蒲台澳",
+    "RoadInfo": "",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T56",
+    "行政区": "浦东新区",
+    "Location": [
+      121.607892,
+      31.330793
+    ],
+    "Name": "Kwan Tai Temple",
+    "Address": "上海市海坛街158号，香港, 中国",
+    "District": "",
+    "RoadInfo": "海坛街158号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T57",
+    "行政区": "元朗区",
+    "Location": [
+      114.012409,
+      22.447541
+    ],
+    "Name": "屏山天水围公共图书馆",
+    "Address": "天水围聚星路一号, 香港, 中国",
+    "District": "天水围",
+    "RoadInfo": "聚星路一号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T58",
+    "行政区": "西贡区",
+    "Location": [
+      114.307,
+      22.374543
+    ],
+    "Name": "盐田梓文物展览馆",
+    "Address": "盐田梓, 香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "盐田梓",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T59",
+    "行政区": "中西区",
+    "Location": [
+      114.14591,
+      22.282801
+    ],
+    "Name": "Kau Yan Church",
+    "Address": "高街97a号，, 中国",
+    "District": "",
+    "RoadInfo": "高街97a号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T60",
+    "行政区": "油尖旺区",
+    "Location": [
+      114.176268,
+      22.302908
+    ],
+    "Name": "Han Garden",
+    "Address": "东京道，香港, 中国",
+    "District": "",
+    "RoadInfo": "东京道",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T61",
+    "行政区": "西贡区",
+    "Location": [
+      114.291885,
+      22.284075
+    ],
+    "Name": "Po Toi O",
+    "Address": "清水湾蒲台澳，香港, 中国",
+    "District": "清水湾",
+    "RoadInfo": "",
+    "Poi": "蒲台澳",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T62",
+    "行政区": "U",
+    "Location": [
+      null,
+      null
+    ],
+    "Name": "Precious Blood Convent",
+    "Address": "银洲街86号，香港, 中国",
+    "District": "",
+    "RoadInfo": "银洲街86号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T63",
+    "行政区": "油尖旺区",
+    "Location": [
+      114.175319,
+      22.302345
+    ],
+    "Name": "Biu Kee Mah-jong",
+    "Address": "佐敦道26楼地下，香港, 中国",
+    "District": "",
+    "RoadInfo": "佐敦道26楼",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T64",
+    "行政区": "U",
+    "Location": [
+      null,
+      null
+    ],
+    "Name": "Spring Of Living Water (yim Tin Tsai)",
+    "Address": "严天财，香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "严天财",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T65",
+    "行政区": "油尖旺区",
+    "Location": [
+      114.168647,
+      22.315238
+    ],
+    "Name": "Cherry Street Park",
+    "Address": "樱桃街1号，香港, 中国",
+    "District": "",
+    "RoadInfo": "樱桃街1号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T66",
+    "行政区": "北区",
+    "Location": [
+      114.26569,
+      22.52433
+    ],
+    "Name": "Hip Tin Temple And Hok Shan Monastery (lai Chi Wo)",
+    "Address": "荔枝窝，香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "荔枝窝",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T67",
+    "行政区": "观塘区",
+    "Location": [
+      114.235133,
+      22.307001
+    ],
+    "Name": "Lei Yue Mun Wishing Tree",
+    "Address": "鲤鱼门，香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "鲤鱼门",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T68",
+    "行政区": "油尖旺区",
+    "Location": [
+      114.176268,
+      22.302908
+    ],
+    "Name": "香港大玉石",
+    "Address": "广东道及佐敦道交界, 香港, 中国",
+    "District": "",
+    "RoadInfo": "广东道佐敦道",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T69",
+    "行政区": "中西区",
+    "Location": [
+      114.12679,
+      22.279649
+    ],
+    "Name": "Tung Wah Smallpox Hospital Memorial Arch",
+    "Address": "西宁街18号，香港, 中国",
+    "District": "",
+    "RoadInfo": "西宁街18号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T70",
+    "行政区": "元朗区",
+    "Location": [
+      114.069873,
+      22.437454
+    ],
+    "Name": "Tang Ching Lok Ancestral Hall",
+    "Address": "水头、锦田、，香港, 中国",
+    "District": "水头",
+    "RoadInfo": "",
+    "Poi": "锦田",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T71",
+    "行政区": "U",
+    "Location": [
+      114.163825,
+      22.276284
+    ],
+    "Name": "Fung Mat Road Waterfront Open Space (We Park)",
+    "Address": "香港，香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T72",
+    "行政区": "U",
+    "Location": [
+      114.163825,
+      22.276284
+    ],
+    "Name": "Telegraph Bay",
+    "Address": "香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T73",
+    "行政区": "油尖旺区",
+    "Location": [
+      114.17789,
+      22.315164
+    ],
+    "Name": "Shui Yuet Temple",
+    "Address": "山东街90号，香港, 中国",
+    "District": "",
+    "RoadInfo": "山东街90号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T74",
+    "行政区": "中西区",
+    "Location": [
+      114.149197,
+      22.282304
+    ],
+    "Name": "Old Mental Hospital (Sai Ying Pun Community Complex)",
+    "Address": "西营盘高街2号，香港, 中国",
+    "District": "",
+    "RoadInfo": "西营盘高街2号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T75",
+    "行政区": "U",
+    "Location": [
+      null,
+      null
+    ],
+    "Name": "Caine Lane Garden",
+    "Address": "凯恩巷2号，香港, 中国",
+    "District": "",
+    "RoadInfo": "凯恩巷2号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T76",
+    "行政区": "中西区",
+    "Location": [
+      114.144729,
+      22.283989
+    ],
+    "Name": "The Western District and the Peak Route",
+    "Address": "西营盘，香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "西营盘",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T77",
+    "行政区": "黄大仙区",
+    "Location": [
+      114.198852,
+      22.334768
+    ],
+    "Name": "Wong Tai Sin Cultural Garden",
+    "Address": "香港黄大仙大成街",
+    "District": "黄大仙",
+    "RoadInfo": "大成街",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T78",
+    "行政区": "U",
+    "Location": [
+      null,
+      null
+    ],
+    "Name": "室内游乐场黄埔花园店",
+    "Address": "时尚世界地下一层B20店，, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "时尚世界B20店",
+    "RoomInfo": "一层"
+  },
+  {
+    "id": "T79",
+    "行政区": "大埔区",
+    "Location": [
+      114.16944,
+      22.448017
+    ],
+    "Name": "Tung Ping Chau Country Trail",
+    "Address": "东平洲，香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "东平洲",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T80",
+    "行政区": "北区",
+    "Location": [
+      114.181229,
+      22.526368
+    ],
+    "Name": "长山古寺",
+    "Address": "坪輋禾径山路, 香港, 中国",
+    "District": "坪輋禾",
+    "RoadInfo": "径山路",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T81",
+    "行政区": "中西区",
+    "Location": [
+      114.164412,
+      22.278625
+    ],
+    "Name": "Statue of Sir Thomas Jackson, 1st Baronet",
+    "Address": "中环遮打道，香港, 中国",
+    "District": "中环",
+    "RoadInfo": "遮打道",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T82",
+    "行政区": "中西区",
+    "Location": [
+      114.162952,
+      22.282068
+    ],
+    "Name": "Pak Tsz Lane Park",
+    "Address": "中环白茨路1号，香港, 中国",
+    "District": "中环",
+    "RoadInfo": "白茨路1号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T83",
+    "行政区": "沙田区",
+    "Location": [
+      114.242048,
+      22.38074
+    ],
+    "Name": "Ma On Shan Country Trail",
+    "Address": "马鞍山郊野公园，香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "马鞍山郊野公园",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T84",
+    "行政区": "U",
+    "Location": [
+      null,
+      null
+    ],
+    "Name": "Fighting SARS Memorial Architectural Scene",
+    "Address": "中环棉花树博士19号，香港, 中国",
+    "District": "中环",
+    "RoadInfo": "",
+    "Poi": "棉花树博士",
+    "RoomInfo": "19号"
+  },
+  {
+    "id": "T85",
+    "行政区": "U",
+    "Location": [
+      null,
+      null
+    ],
+    "Name": "Dutch Lane (Trail)",
+    "Address": "荷兰巷，香港, 中国",
+    "District": "",
+    "RoadInfo": "荷兰巷",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T86",
+    "行政区": "西贡区",
+    "Location": [
+      114.374766,
+      22.396178
+    ],
+    "Name": "Pak Lap Loop Trail",
+    "Address": "西贡西湾，香港, 中国",
+    "District": "西贡",
+    "RoadInfo": "",
+    "Poi": "西湾",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T87",
+    "行政区": "荃湾区",
+    "Location": [
+      114.111048,
+      22.402058
+    ],
+    "Name": "Double Haven",
+    "Address": "船湾郊野公园，香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "船湾郊野公园",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T88",
+    "行政区": "U",
+    "Location": [
+      null,
+      null
+    ],
+    "Name": "Po Toi Ancient Rock Carving",
+    "Address": "蒲台乡村径，香港, 中国",
+    "District": "蒲台乡村径",
+    "RoadInfo": "",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T89",
+    "行政区": "U",
+    "Location": [
+      null,
+      null
+    ],
+    "Name": "Ko Tei Teng Pavilion And Lookout Point (kat O)",
+    "Address": "高地登，加澳岛，香港, 中国",
+    "District": "加澳岛",
+    "RoadInfo": "",
+    "Poi": "高地登",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T90",
+    "行政区": "U",
+    "Location": [
+      null,
+      null
+    ],
+    "Name": "Yung Shue Au (plover Cove Country Park)",
+    "Address": "容树凹，香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "香港市容树凹",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T91",
+    "行政区": "北区",
+    "Location": [
+      114.139957,
+      22.497217
+    ],
+    "Name": "粉岭康乐公园",
+    "Address": "马会道, 香港, 中国",
+    "District": "",
+    "RoadInfo": "马会道",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T92",
+    "行政区": "U",
+    "Location": [
+      113.361866,
+      22.519241
+    ],
+    "Name": "Comfort Women Sculpture",
+    "Address": "中央高架步行道，香港, 中国",
+    "District": "",
+    "RoadInfo": "中央高架步行道",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T93",
+    "行政区": "荃湾区",
+    "Location": [
+      114.111048,
+      22.402058
+    ],
+    "Name": "Kam Shan Tree Walk",
+    "Address": "金山郊野公园，香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "金山郊野公园",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T94",
+    "行政区": "U",
+    "Location": [
+      null,
+      null
+    ],
+    "Name": "Lai Chi Chong Geosite",
+    "Address": "赖，香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T95",
+    "行政区": "屯门区",
+    "Location": [
+      113.999287,
+      22.375351
+    ],
+    "Name": "Sai Wan Stargazing Site",
+    "Address": "麦理浩径，香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "麦理浩径",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T96",
+    "行政区": "大埔区",
+    "Location": [
+      114.312356,
+      22.423669
+    ],
+    "Name": "Lai Chi Chong Trail",
+    "Address": "西贡西郊野公园，香港, 中国",
+    "District": "西贡",
+    "RoadInfo": "",
+    "Poi": "西郊野公园",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T97",
+    "行政区": "中西区",
+    "Location": [
+      114.162952,
+      22.282068
+    ],
+    "Name": "Tank Lane",
+    "Address": "上環, 香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "上環",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T98",
+    "行政区": "U",
+    "Location": [
+      null,
+      null
+    ],
+    "Name": "Po Toi Lighthouse",
+    "Address": "蒲台乡村径，香港, 中国",
+    "District": "蒲台乡村径",
+    "RoadInfo": "",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T99",
+    "行政区": "U",
+    "Location": [
+      null,
+      null
+    ],
+    "Name": "Fountain Terrace Garden",
+    "Address": "上阿尔伯特路1号，香港, 中国",
+    "District": "",
+    "RoadInfo": "阿尔伯特路1号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T100",
+    "行政区": "沙田区",
+    "Location": [
+      114.221758,
+      22.393127
+    ],
+    "Name": "Shing Mun War Relics Trail",
+    "Address": "城门径，香港, 中国",
+    "District": "",
+    "RoadInfo": "城门径",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T101",
+    "行政区": "U",
+    "Location": [
+      114.163825,
+      22.276284
+    ],
+    "Name": "娱乐行",
+    "Address": "香港区域: 上环",
+    "District": "区域",
+    "RoadInfo": "",
+    "Poi": " 上环",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T102",
+    "行政区": "中西区",
+    "Location": [
+      114.147485,
+      22.285744
+    ],
+    "Name": "Former Central Magistracy",
+    "Address": "中环荷里活道10号，香港, 中国",
+    "District": "中环",
+    "RoadInfo": "荷里活道10号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T103",
+    "行政区": "南区",
+    "Location": [
+      114.258003,
+      22.227333
+    ],
+    "Name": "石澳后滩",
+    "Address": "石澳村道, 香港, 中国",
+    "District": "",
+    "RoadInfo": "石澳村道",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T104",
+    "行政区": "中西区",
+    "Location": [
+      114.162952,
+      22.282068
+    ],
+    "Name": "Meerkat House",
+    "Address": "中环奥尔巴尼道，香港, 中国",
+    "District": "中环",
+    "RoadInfo": "奥尔巴尼道",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T105",
+    "行政区": "中西区",
+    "Location": [
+      114.161279,
+      22.276244
+    ],
+    "Name": "Central Heritage Trail - Route C",
+    "Address": "上亚厘毕道，香港, 中国",
+    "District": "",
+    "RoadInfo": "亚厘毕道",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T106",
+    "行政区": "西贡区",
+    "Location": [
+      114.305966,
+      22.294661
+    ],
+    "Name": "Clearwater Bay Country Park",
+    "Address": "清水湾郊野公园，香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "清水湾郊野公园",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T107",
+    "行政区": "西贡区",
+    "Location": [
+      114.305966,
+      22.294661
+    ],
+    "Name": "Lung Ha Wan Country Trail",
+    "Address": "清水湾郊野公园，香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "清水湾郊野公园",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T108",
+    "行政区": "东平县",
+    "Location": [
+      116.450383,
+      35.929869
+    ],
+    "Name": "Horse At Water",
+    "Address": "太古公园，香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "太古公园",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T109",
+    "行政区": "观塘区",
+    "Location": [
+      114.233526,
+      22.30667
+    ],
+    "Name": "Lei Yue Mun Seafood Bazaar",
+    "Address": "鲤鱼门道6号，香港, 中国",
+    "District": "",
+    "RoadInfo": "鲤鱼门道6号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T110",
+    "行政区": "U",
+    "Location": [
+      null,
+      null
+    ],
+    "Name": "Sir Cecil's Ride Trail",
+    "Address": "Braemer Hill，, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T111",
+    "行政区": "U",
+    "Location": [
+      null,
+      null
+    ],
+    "Name": "Devil's Peak Battery",
+    "Address": "魔鬼峰，威尔逊小径3段，香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "威尔逊小径3段魔鬼峰",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T112",
+    "行政区": "U",
+    "Location": [
+      null,
+      null
+    ],
+    "Name": "Gough Battery",
+    "Address": "魔鬼峰，威尔逊小径3段，香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "威尔逊小径3段魔鬼峰",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T113",
+    "行政区": "U",
+    "Location": [
+      null,
+      null
+    ],
+    "Name": "Sai Kung Country Park Visitor Centre",
+    "Address": "大旺仔道531号，香港, 中国",
+    "District": "",
+    "RoadInfo": "大旺仔道531号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T114",
+    "行政区": "元朗区",
+    "Location": [
+      114.02481,
+      22.440682
+    ],
+    "Name": "百鸟塔",
+    "Address": "元朗公园北路, 香港, 中国",
+    "District": "元朗",
+    "RoadInfo": "公园北路",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T115",
+    "行政区": "U",
+    "Location": [
+      null,
+      null
+    ],
+    "Name": "旧大埔警署",
+    "Address": "湾头角里, 香港, 中国",
+    "District": "市湾头角里",
+    "RoadInfo": "",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T116",
+    "行政区": "九龙城区",
+    "Location": [
+      114.194387,
+      22.329171
+    ],
+    "Name": "Yamen (kowloon Walled City Park)",
+    "Address": "九龙寨城公园，香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "九龙寨城公园",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T117",
+    "行政区": "U",
+    "Location": [
+      114.000321,
+      22.902401
+    ],
+    "Name": "Amah Rock",
+    "Address": "红梅局自然径，香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "红梅局自然径",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T118",
+    "行政区": "泌阳县",
+    "Location": [
+      113.328767,
+      32.727524
+    ],
+    "Name": "Cattle Depot Art Park",
+    "Address": "三山路39号，香港, 中国",
+    "District": "",
+    "RoadInfo": "三山路39号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T119",
+    "行政区": "U",
+    "Location": [
+      114.163825,
+      22.276284
+    ],
+    "Name": "Kap Lung Ancient Trail Loop",
+    "Address": "香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T120",
+    "行政区": "南区",
+    "Location": [
+      114.253708,
+      22.232214
+    ],
+    "Name": "Tai Tau Chau",
+    "Address": "石澳海岬道，香港, 中国",
+    "District": "石澳",
+    "RoadInfo": "海岬道",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T121",
+    "行政区": "荃湾区",
+    "Location": [
+      114.111048,
+      22.402058
+    ],
+    "Name": "Tai To Yan Trail",
+    "Address": "林曾郊野公园，香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "林曾郊野公园",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T122",
+    "行政区": "大埔区",
+    "Location": [
+      114.210883,
+      22.459815
+    ],
+    "Name": "Plover Cove Reservoir Country Trail",
+    "Address": "船湾水塘，香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "船湾水塘",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T123",
+    "行政区": "中西区",
+    "Location": [
+      114.161995,
+      22.279156
+    ],
+    "Name": "Pedder Building",
+    "Address": "毕打街12号，香港, 中国",
+    "District": "",
+    "RoadInfo": "毕打街12号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T124",
+    "行政区": "中西区",
+    "Location": [
+      114.162952,
+      22.282068
+    ],
+    "Name": "Select 18",
+    "Address": "上环东街14号，香港, 中国",
+    "District": "",
+    "RoadInfo": "上环东街14号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T125",
+    "行政区": "油尖旺区",
+    "Location": [
+      114.176268,
+      22.302908
+    ],
+    "Name": "Shanghai Street (kitchenware Street)",
+    "Address": "上海街，香港, 中国",
+    "District": "",
+    "RoadInfo": "上海街",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T126",
+    "行政区": "U",
+    "Location": [
+      null,
+      null
+    ],
+    "Name": "Conic Island",
+    "Address": "大龙湾，香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "大龙湾",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T127",
+    "行政区": "U",
+    "Location": [
+      null,
+      null
+    ],
+    "Name": "Chu Wing Kee",
+    "Address": "上环管有街24号，香港, 中国",
+    "District": "上环",
+    "RoadInfo": "管有街24号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T128",
+    "行政区": "中西区",
+    "Location": [
+      114.140591,
+      22.283924
+    ],
+    "Name": "Sheung Wan Heritage Trail Route A",
+    "Address": "德辅道83号，香港, 中国",
+    "District": "",
+    "RoadInfo": "德辅道83号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T129",
+    "行政区": "U",
+    "Location": [
+      null,
+      null
+    ],
+    "Name": "Heung Yip Path Pet Garden",
+    "Address": "香叶径，香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "香叶径",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T130",
+    "行政区": "沙田区",
+    "Location": [
+      114.242048,
+      22.38074
+    ],
+    "Name": "Ma On Shan (peak)",
+    "Address": "马鞍山郊野公园，香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "马鞍山郊野公园",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T131",
+    "行政区": "屯门区",
+    "Location": [
+      113.979991,
+      22.395616
+    ],
+    "Name": "Wong Uk Garden",
+    "Address": "新界沙田圆洲角道，香港, 中国",
+    "District": "",
+    "RoadInfo": "圆洲角道",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T132",
+    "行政区": "U",
+    "Location": [
+      null,
+      null
+    ],
+    "Name": "Yim Tin Tsai Salt Pans",
+    "Address": "蔡尹添，香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "蔡尹添",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T133",
+    "行政区": "沙田区",
+    "Location": [
+      114.236368,
+      22.391925
+    ],
+    "Name": "Our Lady Of Joy Abbey",
+    "Address": "大水坑，香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "大水坑",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T134",
+    "行政区": "荃湾区",
+    "Location": [
+      114.111048,
+      22.402058
+    ],
+    "Name": "Needle Hill",
+    "Address": "城门郊野公园，香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "城门郊野公园",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T135",
+    "行政区": "荃湾区",
+    "Location": [
+      114.111048,
+      22.402058
+    ],
+    "Name": "Shing Mun Country Park",
+    "Address": "城门郊野公园，香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "城门郊野公园",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T136",
+    "行政区": "荃湾区",
+    "Location": [
+      114.111048,
+      22.402058
+    ],
+    "Name": "The Hunch Backs",
+    "Address": "香港马鞍山郊野公园",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "马鞍山郊野公园",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T137",
+    "行政区": "U",
+    "Location": [
+      null,
+      null
+    ],
+    "Name": "Aldrich Bay Promenade",
+    "Address": "奥尔德里奇湾海滨长廊，香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "奥尔德里奇湾海滨长廊",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T138",
+    "行政区": "东区",
+    "Location": [
+      114.236547,
+      22.280068
+    ],
+    "Name": "Eastern District Cultural Square",
+    "Address": "谭公庙道，香港, 中国",
+    "District": "",
+    "RoadInfo": "谭公庙道",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T139",
+    "行政区": "仪征市",
+    "Location": [
+      119.088514,
+      32.403054
+    ],
+    "Name": "Castle Peak Trail",
+    "Address": "青山，香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "青山",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T140",
+    "行政区": "中西区",
+    "Location": [
+      114.155989,
+      22.280675
+    ],
+    "Name": "香港新聞博覽館",
+    "Address": "中环必列者士街2.号, 香港, 中国",
+    "District": "中环",
+    "RoadInfo": "必列者士街2.号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T141",
+    "行政区": "北区",
+    "Location": [
+      114.26569,
+      22.52433
+    ],
+    "Name": "Siu Ying Story Room (lai Chi Wo)",
+    "Address": "荔枝窝村，香港, 中国",
+    "District": "荔枝窝村",
+    "RoadInfo": "",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T142",
+    "行政区": "U",
+    "Location": [
+      null,
+      null
+    ],
+    "Name": "Kam Tin Mural Village",
+    "Address": "锦田村，香港, 中国",
+    "District": "锦田村",
+    "RoadInfo": "",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T143",
+    "行政区": "荃湾区",
+    "Location": [
+      114.121079,
+      22.368307
+    ],
+    "Name": "Plover Cove Country Park",
+    "Address": "香港荃湾新娘潭道，香港, 中国",
+    "District": "荃湾",
+    "RoadInfo": "新娘潭道",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T144",
+    "行政区": "北区",
+    "Location": [
+      114.26569,
+      22.52433
+    ],
+    "Name": "Lai Chi Wo Story Room",
+    "Address": "荔枝窝村，香港, 中国",
+    "District": "荔枝窝村",
+    "RoadInfo": "",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T145",
+    "行政区": "龙岗区",
+    "Location": [
+      114.494164,
+      22.559358
+    ],
+    "Name": "Cheung Chun Yuen",
+    "Address": "金田水头村82号，香港, 中国",
+    "District": "金田水头村",
+    "RoadInfo": "",
+    "Poi": "",
+    "RoomInfo": "82号"
+  },
+  {
+    "id": "T146",
+    "行政区": "元朗区",
+    "Location": [
+      114.069873,
+      22.437454
+    ],
+    "Name": "Yi Tai Study Hall",
+    "Address": "水头、锦田、，香港, 中国",
+    "District": "水头",
+    "RoadInfo": "",
+    "Poi": "锦田",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T147",
+    "行政区": "U",
+    "Location": [
+      null,
+      null
+    ],
+    "Name": "Piazza Verde - Taikoo Shing",
+    "Address": "鱼涌西区道18号，香港, 中国",
+    "District": "鱼涌",
+    "RoadInfo": "西区道18号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T148",
+    "行政区": "南区",
+    "Location": [
+      114.163159,
+      22.244854
+    ],
+    "Name": "Glocal Mahjong",
+    "Address": "中环仔街35号Pmq，, 中国",
+    "District": "",
+    "RoadInfo": "中环仔街35号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T149",
+    "行政区": "北区",
+    "Location": [
+      114.144684,
+      22.489711
+    ],
+    "Name": "Cup Noodles Museum Hong Kong",
+    "Address": "中国香港市2楼26-35号铺，香港, 中国",
+    "District": "",
+    "RoadInfo": "26-35号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T150",
+    "行政区": "屯门区",
+    "Location": [
+      113.97635,
+      22.388016
+    ],
+    "Name": "后角天后庙",
+    "Address": "香港屯门天后路",
+    "District": "屯门",
+    "RoadInfo": "天后路",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T151",
+    "行政区": "离岛区",
+    "Location": [
+      114.021362,
+      22.305926
+    ],
+    "Name": "Shek Pik Reservoir",
+    "Address": "大屿山，香港, 中国",
+    "District": "大屿山",
+    "RoadInfo": "",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T152",
+    "行政区": "U",
+    "Location": [
+      114.163825,
+      22.276284
+    ],
+    "Name": "老政府大楼",
+    "Address": "香港帕拉玛塔公园、皮特街和麦考瑞街，帕拉马塔, 大悉尼，新南威尔士州, 澳大利亚",
+    "District": "大悉尼",
+    "RoadInfo": "皮特街麦考瑞街",
+    "Poi": "帕拉马塔香港帕拉玛塔公园",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T153",
+    "行政区": "北区",
+    "Location": [
+      114.140606,
+      22.494662
+    ],
+    "Name": "Fanling Chung Wai",
+    "Address": "香港粉岭围北区",
+    "District": "粉岭",
+    "RoadInfo": "",
+    "Poi": "围北区",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T154",
+    "行政区": "U",
+    "Location": [
+      null,
+      null
+    ],
+    "Name": "Mirror Pool Waterfalls",
+    "Address": "吴，香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T155",
+    "行政区": "中西区",
+    "Location": [
+      114.164559,
+      22.275364
+    ],
+    "Name": "St John's Cathedral Labyrinth",
+    "Address": "中环花园道4-8号，香港, 中国",
+    "District": "中环",
+    "RoadInfo": "花园道4-8号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T156",
+    "行政区": "U",
+    "Location": [
+      null,
+      null
+    ],
+    "Name": "廖万石堂",
+    "Address": "上水, 香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "上水",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T157",
+    "行政区": "东区",
+    "Location": [
+      114.235493,
+      22.274879
+    ],
+    "Name": "筲箕湾城隍庙",
+    "Address": "金华街, 香港, 中国",
+    "District": "",
+    "RoadInfo": "金华街",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T158",
+    "行政区": "U",
+    "Location": [
+      null,
+      null
+    ],
+    "Name": "Carbon Brews",
+    "Address": "新界沙田凹贝湾街27-31号，香港, 中国",
+    "District": "沙田",
+    "RoadInfo": "凹贝湾街27-31号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T159",
+    "行政区": "U",
+    "Location": [
+      null,
+      null
+    ],
+    "Name": "Lions Nature Education Centre",
+    "Address": "西贡尖坑，香港, 中国",
+    "District": "西贡",
+    "RoadInfo": "",
+    "Poi": "尖坑",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T160",
+    "行政区": "大埔区",
+    "Location": [
+      114.169772,
+      22.446198
+    ],
+    "Name": "大埔文武二帝庙",
+    "Address": "大埔富善街, 香港, 中国",
+    "District": "大埔",
+    "RoadInfo": "富善街",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T161",
+    "行政区": "中西区",
+    "Location": [
+      114.1665,
+      22.279561
+    ],
+    "Name": "City Hall Memorial Garden",
+    "Address": "中环爱丁堡广场5号，香港, 中国",
+    "District": "中环",
+    "RoadInfo": "",
+    "Poi": "爱丁堡广场",
+    "RoomInfo": "5号"
+  },
+  {
+    "id": "T162",
+    "行政区": "深水埗区",
+    "Location": [
+      114.179434,
+      22.334584
+    ],
+    "Name": "欢天雪地",
+    "Address": "九龙塘达之路80号又一城地面高层, 香港, 中国",
+    "District": "",
+    "RoadInfo": "达之路80号",
+    "Poi": "又一城地面高层",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T163",
+    "行政区": "中西区",
+    "Location": [
+      114.15477,
+      22.283486
+    ],
+    "Name": "香港上环文娱中心展览厅",
+    "Address": "皇后大道中345号上环市政大厦6.层, 香港, 中国",
+    "District": "",
+    "RoadInfo": "皇后大道中345号",
+    "Poi": "上环市政大厦",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T164",
+    "行政区": "沙田区",
+    "Location": [
+      114.213347,
+      22.38938
+    ],
+    "Name": "綠在沙田",
+    "Address": "沙田石門安平街10號, 香港, 中国",
+    "District": "石門",
+    "RoadInfo": "安平街10號",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T165",
+    "行政区": "沙田区",
+    "Location": [
+      114.242048,
+      22.38074
+    ],
+    "Name": "Luk Chau Shan (stone Forest)",
+    "Address": "马鞍山郊野公园，香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "马鞍山郊野公园",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T166",
+    "行政区": "中西区",
+    "Location": [
+      114.162952,
+      22.282068
+    ],
+    "Name": "Noble Tranquility Sculpture",
+    "Address": "中环干诺街8号，香港, 中国",
+    "District": "中环",
+    "RoadInfo": "干诺街8号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T167",
+    "行政区": "U",
+    "Location": [
+      null,
+      null
+    ],
+    "Name": "Sitting Couple Sculpture",
+    "Address": "中环干诺坊8号，香港, 中国",
+    "District": "中环",
+    "RoadInfo": "干诺坊8号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T168",
+    "行政区": "中西区",
+    "Location": [
+      114.162952,
+      22.282068
+    ],
+    "Name": "Water Buffalo Sculptures",
+    "Address": "中环干诺街8号，香港, 中国",
+    "District": "中环",
+    "RoadInfo": "干诺街8号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T169",
+    "行政区": "中西区",
+    "Location": [
+      114.162952,
+      22.282068
+    ],
+    "Name": "Double Oval Sculpture",
+    "Address": "中环干诺街1号，香港, 中国",
+    "District": "中环",
+    "RoadInfo": "干诺街1号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T170",
+    "行政区": "湾仔区",
+    "Location": [
+      114.174541,
+      22.274228
+    ],
+    "Name": "景德行瓷业有限公司",
+    "Address": "湾仔皇后大道东126年至128年号地下, 香港, 中国",
+    "District": "湾仔",
+    "RoadInfo": "皇后大道126年",
+    "Poi": "128年号地下",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T171",
+    "行政区": "南区",
+    "Location": [
+      114.242013,
+      22.240299
+    ],
+    "Name": "Shek O Country Park",
+    "Address": "石澳郊野公园，香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "石澳郊野公园",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T172",
+    "行政区": "中西区",
+    "Location": [
+      114.162952,
+      22.282068
+    ],
+    "Name": "索罟湾天后庙",
+    "Address": "索罟湾第一街, 香港, 中国",
+    "District": "索罟湾",
+    "RoadInfo": "第一街",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T173",
+    "行政区": "南区",
+    "Location": [
+      114.226716,
+      22.240124
+    ],
+    "Name": "Historic Structures Of The Tai Tam Reservoirs",
+    "Address": "大潭水塘，香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "大潭水塘",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T174",
+    "行政区": "中西区",
+    "Location": [
+      114.136264,
+      22.282212
+    ],
+    "Name": "卑路乍湾海旁",
+    "Address": "坚弥地城海, 香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "坚弥地城海",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T175",
+    "行政区": "东区",
+    "Location": [
+      114.239545,
+      22.278522
+    ],
+    "Name": "爱秩序湾公园",
+    "Address": "爱秩序湾, 香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "爱秩序湾",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T176",
+    "行政区": "U",
+    "Location": [
+      null,
+      null
+    ],
+    "Name": "茅坪古道",
+    "Address": "梅茨林道，香港, 中国",
+    "District": "",
+    "RoadInfo": "梅茨林道",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T177",
+    "行政区": "北区",
+    "Location": [
+      114.22903,
+      22.544948
+    ],
+    "Name": "愈乔二公祠",
+    "Address": "屏山邓氏宗祠的南面, 香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "屏山邓氏宗祠",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T178",
+    "行政区": "U",
+    "Location": [
+      null,
+      null
+    ],
+    "Name": "Brides Pool Waterfalls",
+    "Address": "Brides Pool路，, 中国",
+    "District": "",
+    "RoadInfo": "ol路",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T179",
+    "行政区": "南区",
+    "Location": [
+      114.226227,
+      22.236774
+    ],
+    "Name": "Tai Tam Reservoirs",
+    "Address": "大潭郊野公园，香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "大潭郊野公园",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T180",
+    "行政区": "中西区",
+    "Location": [
+      114.162952,
+      22.282068
+    ],
+    "Name": "香港赤柱警署",
+    "Address": "香港岛南区赤柱, 香港, 中国",
+    "District": "南区",
+    "RoadInfo": "",
+    "Poi": "赤柱",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T181",
+    "行政区": "屯门区",
+    "Location": [
+      113.979363,
+      22.393569
+    ],
+    "Name": "Palm Cliff",
+    "Address": "香港区域: 新界",
+    "District": "区域",
+    "RoadInfo": "",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T182",
+    "行政区": "U",
+    "Location": [
+      null,
+      null
+    ],
+    "Name": "Yung Shue Wan",
+    "Address": "南丫岛西北部，香港, 中国",
+    "District": "南丫岛",
+    "RoadInfo": "",
+    "Poi": "西北部",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T183",
+    "行政区": "中西区",
+    "Location": [
+      114.166562,
+      22.279676
+    ],
+    "Name": "Central Heritage Trail Route A",
+    "Address": "爱丁堡广场，香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "爱丁堡广场",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T184",
+    "行政区": "西贡区",
+    "Location": [
+      114.374766,
+      22.396178
+    ],
+    "Name": "Tai Long Sai Wan",
+    "Address": "西贡西湾泳滩，香港, 中国",
+    "District": "西贡",
+    "RoadInfo": "",
+    "Poi": "西湾泳滩",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T185",
+    "行政区": "荃湾区",
+    "Location": [
+      114.111048,
+      22.402058
+    ],
+    "Name": "Tai Lam Country Park",
+    "Address": "大榄郊野公园，香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "大榄郊野公园",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T186",
+    "行政区": "南区",
+    "Location": [
+      114.200447,
+      22.236112
+    ],
+    "Name": "The Repulse Bay",
+    "Address": "浅水湾道109号，香港, 中国",
+    "District": "",
+    "RoadInfo": "浅水湾道109号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T187",
+    "行政区": "中西区",
+    "Location": [
+      114.164143,
+      22.280294
+    ],
+    "Name": "Jardine's Lookout",
+    "Address": "怡和了望台，香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "怡和了望台",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T188",
+    "行政区": "黄大仙区",
+    "Location": [
+      114.206693,
+      22.339707
+    ],
+    "Name": "凤德公园",
+    "Address": "黄大仙凤德道, 香港, 中国",
+    "District": "黄大仙",
+    "RoadInfo": "凤德道",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T189",
+    "行政区": "南区",
+    "Location": [
+      114.25132,
+      22.243246
+    ],
+    "Name": "Ancient Rock Carving (big Wave Bay)",
+    "Address": "大浪湾，香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "大浪湾",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T190",
+    "行政区": "西贡区",
+    "Location": [
+      114.350213,
+      22.398637
+    ],
+    "Name": "Kim Chu Wan Beach",
+    "Address": "蒲坪洲、西贡东郊野公园、，香港, 中国",
+    "District": "蒲坪洲西贡",
+    "RoadInfo": "",
+    "Poi": "东郊野公园",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T191",
+    "行政区": "西贡区",
+    "Location": [
+      114.350213,
+      22.398637
+    ],
+    "Name": "Po Pin Chau",
+    "Address": "蒲坪洲、西贡东郊野公园、，香港, 中国",
+    "District": "蒲坪洲西贡",
+    "RoadInfo": "",
+    "Poi": "东郊野公园",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T192",
+    "行政区": "离岛区",
+    "Location": [
+      114.021362,
+      22.305926
+    ],
+    "Name": "West Dog's Teeth Trail",
+    "Address": "大屿山，香港, 中国",
+    "District": "大屿山",
+    "RoadInfo": "",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T193",
+    "行政区": "东平县",
+    "Location": [
+      116.450383,
+      35.929869
+    ],
+    "Name": "Ap Lei Chau Wind Tower Park",
+    "Address": "鸭脷洲风塔公园，香港, 中国",
+    "District": "鸭脷洲",
+    "RoadInfo": "",
+    "Poi": "风塔公园",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T194",
+    "行政区": "中西区",
+    "Location": [
+      114.165906,
+      22.274796
+    ],
+    "Name": "The Vantage Point (hong Kong Park)",
+    "Address": "香港19红棉路",
+    "District": "",
+    "RoadInfo": "红棉路",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T195",
+    "行政区": "湾仔区",
+    "Location": [
+      114.192616,
+      22.274049
+    ],
+    "Name": "Central Heritage Trail - Route B",
+    "Address": "棉花路10号，香港, 中国",
+    "District": "",
+    "RoadInfo": "棉花路10号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T196",
+    "行政区": "荃湾区",
+    "Location": [
+      114.111048,
+      22.402058
+    ],
+    "Name": "九龙水塘",
+    "Address": "金山郊野公园，香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "金山郊野公园",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T197",
+    "行政区": "U",
+    "Location": [
+      null,
+      null
+    ],
+    "Name": "Tang Ancestral Hall, Ha Tsuen",
+    "Address": "下美道10号，香港, 中国",
+    "District": "",
+    "RoadInfo": "下美道10号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T198",
+    "行政区": "湾仔区",
+    "Location": [
+      114.175016,
+      22.273577
+    ],
+    "Name": "提升7倍智能学校游戏室",
+    "Address": "湾仔皇后大道东100号, 香港, 中国",
+    "District": "湾仔",
+    "RoadInfo": "皇后大道100号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T199",
+    "行政区": "屯门区",
+    "Location": [
+      113.979991,
+      22.395616
+    ],
+    "Name": "Hung Lau",
+    "Address": "屯门龙门道洪楼，香港, 中国",
+    "District": "屯门",
+    "RoadInfo": "龙门道",
+    "Poi": "洪楼",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T200",
+    "行政区": "离岛区",
+    "Location": [
+      114.044359,
+      22.303316
+    ],
+    "Name": "Tsing Yi Promenade",
+    "Address": "青衣海滨长廊，香港, 中国",
+    "District": "青衣",
+    "RoadInfo": "",
+    "Poi": "海滨长廊",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T201",
+    "行政区": "油尖旺区",
+    "Location": [
+      114.176268,
+      22.302908
+    ],
+    "Name": "Hutchison Park",
+    "Address": "红磡戴尔道，香港, 中国",
+    "District": "红磡",
+    "RoadInfo": "戴尔道",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T202",
+    "行政区": "荃湾区",
+    "Location": [
+      114.061173,
+      22.362781
+    ],
+    "Name": "Ho Pui Reservoir",
+    "Address": "青山公路，香港, 中国",
+    "District": "",
+    "RoadInfo": "青山公路",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T203",
+    "行政区": "黄大仙区",
+    "Location": [
+      114.20182,
+      22.347643
+    ],
+    "Name": "Tsz Wan Kok Temple",
+    "Address": "慈云山路150号，香港, 中国",
+    "District": "",
+    "RoadInfo": "慈云山路150号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T204",
+    "行政区": "屯门区",
+    "Location": [
+      113.979991,
+      22.395616
+    ],
+    "Name": "佛堂门天后古庙",
+    "Address": "新界西贡大庙湾, 香港, 中国",
+    "District": "西贡",
+    "RoadInfo": "",
+    "Poi": "大庙湾",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T205",
+    "行政区": "离岛区",
+    "Location": [
+      114.044359,
+      22.303316
+    ],
+    "Name": "Siu Sai Wan Promenade",
+    "Address": "小西湾海滨长廊，香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "小西湾海滨长廊",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T206",
+    "行政区": "沙田区",
+    "Location": [
+      114.236368,
+      22.391925
+    ],
+    "Name": "Ma Dai Stream Trail",
+    "Address": "马岱溪，大水坑，香港, 中国",
+    "District": "大水坑",
+    "RoadInfo": "",
+    "Poi": "马岱溪",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T207",
+    "行政区": "东区",
+    "Location": [
+      114.244156,
+      22.262007
+    ],
+    "Name": "Chai Wan Park",
+    "Address": "怡顺街3号，香港, 中国",
+    "District": "",
+    "RoadInfo": "怡顺街3号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T208",
+    "行政区": "U",
+    "Location": [
+      null,
+      null
+    ],
+    "Name": "Leaping Dragon Walk",
+    "Address": "科林森角，香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "科林森角",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T209",
+    "行政区": "西贡区",
+    "Location": [
+      114.323978,
+      22.393726
+    ],
+    "Name": "Pak Tam Chung Nature Trail",
+    "Address": "西贡北潭涌，香港, 中国",
+    "District": "西贡",
+    "RoadInfo": "",
+    "Poi": "北潭涌",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T210",
+    "行政区": "荃湾区",
+    "Location": [
+      114.111048,
+      22.402058
+    ],
+    "Name": "Pat Sin Leng Trail",
+    "Address": "八仙岭郊野公园，香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "八仙岭郊野公园",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T211",
+    "行政区": "U",
+    "Location": [
+      null,
+      null
+    ],
+    "Name": "Tin Hau Temple (sham Shui Po)",
+    "Address": "宜局街180号，香港, 中国",
+    "District": "",
+    "RoadInfo": "宜局街180号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T212",
+    "行政区": "东区",
+    "Location": [
+      114.241112,
+      22.264943
+    ],
+    "Name": "Little Monster Playhouse",
+    "Address": "柴湾宁福街3号易力大厦，香港, 中国",
+    "District": "柴湾",
+    "RoadInfo": "宁福街3号",
+    "Poi": "易力大厦",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T213",
+    "行政区": "黄大仙区",
+    "Location": [
+      114.198852,
+      22.334768
+    ],
+    "Name": "黄大仙文化公园",
+    "Address": "大成街, 香港, 中国",
+    "District": "",
+    "RoadInfo": "大成街",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T214",
+    "行政区": "中西区",
+    "Location": [
+      114.161995,
+      22.279156
+    ],
+    "Name": "布朗美术馆",
+    "Address": "毕打街12号毕打楼301号, 香港, 中国",
+    "District": "",
+    "RoadInfo": "毕打街12号毕打楼301号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T215",
+    "行政区": "中西区",
+    "Location": [
+      114.163721,
+      22.279583
+    ],
+    "Name": "Taichi Series - Right Heel Kick Sculpture",
+    "Address": "干诺道中8号，香港, 中国",
+    "District": "",
+    "RoadInfo": "干诺道中8号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T216",
+    "行政区": "葵青区",
+    "Location": [
+      114.13922,
+      22.367764
+    ],
+    "Name": "Oval with Points",
+    "Address": "中心的香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "中心的香港",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T217",
+    "行政区": "U",
+    "Location": [
+      113.361866,
+      22.519241
+    ],
+    "Name": "Cheung Chau North Lookout Pavilion",
+    "Address": "长洲长白路，香港, 中国",
+    "District": "长洲",
+    "RoadInfo": "长白路",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T218",
+    "行政区": "U",
+    "Location": [
+      null,
+      null
+    ],
+    "Name": "Po Toi Country Trail",
+    "Address": "蒲台岛，香港, 中国",
+    "District": "蒲台岛",
+    "RoadInfo": "",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T219",
+    "行政区": "元朗区",
+    "Location": [
+      114.094307,
+      22.438803
+    ],
+    "Name": "青協有機農莊",
+    "Address": "八乡何培水库, 香港, 中国",
+    "District": "八乡",
+    "RoadInfo": "",
+    "Poi": "何培水库",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T220",
+    "行政区": "荃湾区",
+    "Location": [
+      114.115166,
+      22.371954
+    ],
+    "Name": "Centre for Heritage, Arts and Textile",
+    "Address": "白田坝街45号，香港, 中国",
+    "District": "",
+    "RoadInfo": "白田坝街45号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T221",
+    "行政区": "离岛区",
+    "Location": [
+      114.021362,
+      22.305926
+    ],
+    "Name": "Shek Pik Country Trail",
+    "Address": "大屿山南，香港, 中国",
+    "District": "大屿山",
+    "RoadInfo": "",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T222",
+    "行政区": "南区",
+    "Location": [
+      114.226227,
+      22.236774
+    ],
+    "Name": "Tai Tam Country Park",
+    "Address": "大潭郊野公园，香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "大潭郊野公园",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T223",
+    "行政区": "南区",
+    "Location": [
+      114.25132,
+      22.243246
+    ],
+    "Name": "Tai Wan Beach",
+    "Address": "西贡大浪湾，香港, 中国",
+    "District": "西贡",
+    "RoadInfo": "",
+    "Poi": "大浪湾",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T224",
+    "行政区": "U",
+    "Location": [
+      null,
+      null
+    ],
+    "Name": "Kiu Tsui Country Park",
+    "Address": "桥咀郊野公园，香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "桥咀郊野公园",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T225",
+    "行政区": "中西区",
+    "Location": [
+      114.164191,
+      22.275052
+    ],
+    "Name": "西區及山頂線A段",
+    "Address": "山顶缆车总站花园道33号, 香港, 中国",
+    "District": "",
+    "RoadInfo": "花园道33号",
+    "Poi": "山顶缆车总站",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T226",
+    "行政区": "黄大仙区",
+    "Location": [
+      114.204613,
+      22.335161
+    ],
+    "Name": "The Barrack Block",
+    "Address": "好莱坞路10号，香港, 中国",
+    "District": "",
+    "RoadInfo": "好莱坞路10号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T227",
+    "行政区": "黄大仙区",
+    "Location": [
+      114.204613,
+      22.335161
+    ],
+    "Name": "Former Central Police Station Compound",
+    "Address": "好莱坞路10号，香港, 中国",
+    "District": "",
+    "RoadInfo": "好莱坞路10号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T228",
+    "行政区": "黄大仙区",
+    "Location": [
+      114.204613,
+      22.335161
+    ],
+    "Name": "Sheung Wan Heritage Trail Route B",
+    "Address": "好莱坞路124号，香港, 中国",
+    "District": "",
+    "RoadInfo": "好莱坞路124号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T229",
+    "行政区": "离岛区",
+    "Location": [
+      114.021362,
+      22.305926
+    ],
+    "Name": "Lantau Peak",
+    "Address": "大屿山径第三段，香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "大屿山径第三段",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T230",
+    "行政区": "东区",
+    "Location": [
+      114.217174,
+      22.28417
+    ],
+    "Name": "ArtisTree",
+    "Address": "香港岛太古城英皇道979号太古坊康和大厦1.楼, 香港, 中国",
+    "District": "太古城",
+    "RoadInfo": "英皇道979号",
+    "Poi": "太古坊康和大厦",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T231",
+    "行政区": "九龙城区",
+    "Location": [
+      114.182926,
+      22.323535
+    ],
+    "Name": "聖德肋撒堂",
+    "Address": "九龙城太子道西258号, 香港, 中国",
+    "District": "",
+    "RoadInfo": "太子道西258号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T232",
+    "行政区": "北区",
+    "Location": [
+      114.161556,
+      22.537198
+    ],
+    "Name": "Zen Organic Farm",
+    "Address": "打鼓岭坪车，香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "打鼓岭坪车",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T233",
+    "行政区": "U",
+    "Location": [
+      null,
+      null
+    ],
+    "Name": "Green House - Botanical Gardens",
+    "Address": "奥尔巴尼路，香港, 中国",
+    "District": "",
+    "RoadInfo": "奥尔巴尼路",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T234",
+    "行政区": "中西区",
+    "Location": [
+      114.163697,
+      22.277554
+    ],
+    "Name": "香港徐氏艺术馆",
+    "Address": "中西区皇后大道中5.号, 香港, 中国",
+    "District": "中西区",
+    "RoadInfo": "皇后大道中5.号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T235",
+    "行政区": "北区",
+    "Location": [
+      114.154536,
+      22.496518
+    ],
+    "Name": "龙跃头文物径",
+    "Address": "新界东大埔区龙跃头, 香港, 中国",
+    "District": "大埔区龙跃头",
+    "RoadInfo": "",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T236",
+    "行政区": "沙田区",
+    "Location": [
+      114.242048,
+      22.38074
+    ],
+    "Name": "Ngong Ping (ma On Shan)",
+    "Address": "昂坪，马鞍山郊野公园，香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "马鞍山郊野公园昂坪",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T237",
+    "行政区": "南区",
+    "Location": [
+      114.200263,
+      22.235277
+    ],
+    "Name": "The Pavilion Of Longevity",
+    "Address": "浅水湾泳滩，香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "浅水湾泳滩",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T238",
+    "行政区": "古蔺县",
+    "Location": [
+      105.814144,
+      28.042335
+    ],
+    "Name": "鞍山探索館",
+    "Address": "馬鞍山村上村35號, 香港, 中国",
+    "District": "馬鞍山村上村",
+    "RoadInfo": "",
+    "Poi": "",
+    "RoomInfo": "35號"
+  },
+  {
+    "id": "T239",
+    "行政区": "U",
+    "Location": [
+      null,
+      null
+    ],
+    "Name": "Sheung Yiu Folk Museum, Sai Kung",
+    "Address": "大旺仔道，香港, 中国",
+    "District": "",
+    "RoadInfo": "大旺仔道",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T240",
+    "行政区": "葵青区",
+    "Location": [
+      114.111698,
+      22.355233
+    ],
+    "Name": "长发摩登街市",
+    "Address": "担杆山路6.号, 香港, 中国",
+    "District": "",
+    "RoadInfo": "担杆山路6.号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T241",
+    "行政区": "西贡区",
+    "Location": [
+      114.350213,
+      22.398637
+    ],
+    "Name": "Ham Tin Beach",
+    "Address": "西贡东郊野公园，香港, 中国",
+    "District": "西贡",
+    "RoadInfo": "",
+    "Poi": "东郊野公园",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T242",
+    "行政区": "U",
+    "Location": [
+      null,
+      null
+    ],
+    "Name": "West Kowloon Art Park",
+    "Address": "西九文化区, 香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "西九文化区",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T243",
+    "行政区": "元朗区",
+    "Location": [
+      114.012286,
+      22.441645
+    ],
+    "Name": "邓氏宗祠",
+    "Address": "屏山文物径, 香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "屏山文物径",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T244",
+    "行政区": "中西区",
+    "Location": [
+      114.162952,
+      22.282068
+    ],
+    "Name": "Above the Clouds Sculpture",
+    "Address": "中环干诺街8号，香港, 中国",
+    "District": "中环",
+    "RoadInfo": "干诺街8号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T245",
+    "行政区": "U",
+    "Location": [
+      114.163825,
+      22.276284
+    ],
+    "Name": "Pinewood Battery",
+    "Address": "香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T246",
+    "行政区": "U",
+    "Location": [
+      114.163825,
+      22.276284
+    ],
+    "Name": "Choi Hung Estate",
+    "Address": "香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T247",
+    "行政区": "西贡区",
+    "Location": [
+      114.279409,
+      22.379678
+    ],
+    "Name": "火山探知馆",
+    "Address": "西贡海滨公园, 香港, 中国",
+    "District": "西贡",
+    "RoadInfo": "",
+    "Poi": "海滨公园",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T248",
+    "行政区": "油尖旺区",
+    "Location": [
+      114.176268,
+      22.302908
+    ],
+    "Name": "旺角宠物街",
+    "Address": "油尖旺区宠物街, 香港, 中国",
+    "District": "油尖旺区",
+    "RoadInfo": "宠物街",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T249",
+    "行政区": "U",
+    "Location": [
+      null,
+      null
+    ],
+    "Name": "Kam Tin Tree House",
+    "Address": "水美村，香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "水美村",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T250",
+    "行政区": "葵青区",
+    "Location": [
+      114.103568,
+      22.358846
+    ],
+    "Name": "青衣东北公园",
+    "Address": "担杆山路10号, 香港, 中国",
+    "District": "",
+    "RoadInfo": "担杆山路10号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T251",
+    "行政区": "中西区",
+    "Location": [
+      114.144729,
+      22.283989
+    ],
+    "Name": "Art Lane",
+    "Address": "西营盘，香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "西营盘",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T252",
+    "行政区": "东区",
+    "Location": [
+      114.234845,
+      22.275994
+    ],
+    "Name": "筲箕湾东天后庙",
+    "Address": "筲箕湾东大街, 香港, 中国",
+    "District": "筲箕湾",
+    "RoadInfo": "东大街",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T253",
+    "行政区": "屯门区",
+    "Location": [
+      113.979991,
+      22.395616
+    ],
+    "Name": "元洲仔自然环境保护研究中心",
+    "Address": "新界大埔岛屋里，香港, 中国",
+    "District": "大埔",
+    "RoadInfo": "",
+    "Poi": "岛屋里",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T254",
+    "行政区": "荃湾区",
+    "Location": [
+      114.128398,
+      22.370439
+    ],
+    "Name": "城门谷公园",
+    "Address": "城门道21号，香港, 中国",
+    "District": "",
+    "RoadInfo": "城门道21号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T255",
+    "行政区": "元朗区",
+    "Location": [
+      114.011854,
+      22.457098
+    ],
+    "Name": "天水围龙园",
+    "Address": "天龙路2.号, 香港, 中国",
+    "District": "",
+    "RoadInfo": "天龙路2.号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T256",
+    "行政区": "中西区",
+    "Location": [
+      114.162952,
+      22.282068
+    ],
+    "Name": "铜锣湾避风塘",
+    "Address": "香港岛中西区维多利亚港, 香港, 中国",
+    "District": "中西区",
+    "RoadInfo": "",
+    "Poi": "维多利亚港",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T257",
+    "行政区": "U",
+    "Location": [
+      113.361866,
+      22.519241
+    ],
+    "Name": "Kwun Yam Beach",
+    "Address": "长洲白牌路，香港, 中国",
+    "District": "长洲",
+    "RoadInfo": "白牌路",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T258",
+    "行政区": "屯门区",
+    "Location": [
+      113.989194,
+      22.416003
+    ],
+    "Name": "藍地 Lam Tei",
+    "Address": "屯门蓝地大街, 香港, 中国",
+    "District": "屯门",
+    "RoadInfo": "蓝地大街",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T259",
+    "行政区": "浦东新区",
+    "Location": [
+      121.778889,
+      31.133837
+    ],
+    "Name": "Chase Sapphire Lounge",
+    "Address": "国际机场1号航站楼，香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "国际机场1号航站楼",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T260",
+    "行政区": "安义县",
+    "Location": [
+      115.606377,
+      28.802042
+    ],
+    "Name": "Red Doors Studio Ltd",
+    "Address": "f/21，李基金中心，，, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "李基金中心f/21",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T261",
+    "行政区": "黄大仙区",
+    "Location": [
+      114.188817,
+      22.3423
+    ],
+    "Name": "沙田曾大屋",
+    "Address": "狮子山公园脚下, 香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "狮子山公园",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T262",
+    "行政区": "浦东新区",
+    "Location": [
+      121.607892,
+      31.330793
+    ],
+    "Name": "Belcher Bay Promenade",
+    "Address": "贝尔彻湾海滨大道，香港, 中国",
+    "District": "",
+    "RoadInfo": "贝尔彻湾海滨大道",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T263",
+    "行政区": "南区",
+    "Location": [
+      114.161184,
+      22.245178
+    ],
+    "Name": "香港海洋公园水上乐园",
+    "Address": "香港仔海洋径33号, 香港, 中国",
+    "District": "",
+    "RoadInfo": "海洋径33号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T264",
+    "行政区": "东区",
+    "Location": [
+      114.195336,
+      22.284484
+    ],
+    "Name": "东岸公园主题区",
+    "Address": "屈臣道西, 香港, 中国",
+    "District": "",
+    "RoadInfo": "屈臣道",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T265",
+    "行政区": "屯门区",
+    "Location": [
+      113.967684,
+      22.403448
+    ],
+    "Name": "菠蘿山",
+    "Address": "良景邨良田坳, 香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "良景邨良田坳",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T266",
+    "行政区": "中西区",
+    "Location": [
+      114.162952,
+      22.282068
+    ],
+    "Name": "皇后大道西",
+    "Address": "湾仔区西环, 香港, 中国",
+    "District": "湾仔区",
+    "RoadInfo": "",
+    "Poi": "西环",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T267",
+    "行政区": "U",
+    "Location": [
+      114.163825,
+      22.276284
+    ],
+    "Name": "展城馆",
+    "Address": "香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T268",
+    "行政区": "东区",
+    "Location": [
+      114.240425,
+      22.275836
+    ],
+    "Name": "鲤鱼门公园及度假村",
+    "Address": "柴湾道75号, 香港, 中国",
+    "District": "",
+    "RoadInfo": "柴湾道75号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T269",
+    "行政区": "U",
+    "Location": [
+      null,
+      null
+    ],
+    "Name": "关帝庙",
+    "Address": "元朗区关帝庙, 香港, 中国",
+    "District": "元朗区",
+    "RoadInfo": "",
+    "Poi": "关帝庙",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T270",
+    "行政区": "U",
+    "Location": [
+      null,
+      null
+    ],
+    "Name": "鲁班庙",
+    "Address": "坚尼地域青莲台15号, 香港, 中国",
+    "District": "",
+    "RoadInfo": "青莲台15号",
+    "Poi": "坚尼地域",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T271",
+    "行政区": "湾仔区",
+    "Location": [
+      114.18406,
+      22.272618
+    ],
+    "Name": "伊利沙伯体育馆",
+    "Address": "湾仔爱群道18号, 香港, 中国",
+    "District": "湾仔",
+    "RoadInfo": "爱群道18号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T272",
+    "行政区": "中西区",
+    "Location": [
+      114.164552,
+      22.277579
+    ],
+    "Name": "Stitt and Stephen Lion statues",
+    "Address": "中环皇后大道中1号，香港, 中国",
+    "District": "中环",
+    "RoadInfo": "皇后大道中1号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T273",
+    "行政区": "荃湾区",
+    "Location": [
+      114.111048,
+      22.402058
+    ],
+    "Name": "Aberdeen Reservoirs",
+    "Address": "香港仔郊野公园，香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "香港仔郊野公园",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T274",
+    "行政区": "U",
+    "Location": [
+      null,
+      null
+    ],
+    "Name": "Chek Lap Kok South Perimeter Road",
+    "Address": "赤？角，香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "赤？角",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T275",
+    "行政区": "U",
+    "Location": [
+      114.163825,
+      22.276284
+    ],
+    "Name": "启德跑道公园",
+    "Address": "香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T276",
+    "行政区": "中西区",
+    "Location": [
+      114.144403,
+      22.281299
+    ],
+    "Name": "香港冯平山博物馆",
+    "Address": "中西区般咸道94号, 香港, 中国",
+    "District": "中西区",
+    "RoadInfo": "般咸道94号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T277",
+    "行政区": "元朗区",
+    "Location": [
+      114.012725,
+      22.443573
+    ],
+    "Name": "聚星楼",
+    "Address": "元朗屏山, 香港, 中国",
+    "District": "元朗",
+    "RoadInfo": "",
+    "Poi": "屏山",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T278",
+    "行政区": "元朗区",
+    "Location": [
+      114.086492,
+      22.49579
+    ],
+    "Name": "大夫第大厦",
+    "Address": "元朗新田, 香港, 中国",
+    "District": "元朗",
+    "RoadInfo": "",
+    "Poi": "新田",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T279",
+    "行政区": "中西区",
+    "Location": [
+      114.15852,
+      22.278679
+    ],
+    "Name": "域多利监狱",
+    "Address": "奥卑利街16号, 香港, 中国",
+    "District": "",
+    "RoadInfo": "奥卑利街16号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T280",
+    "行政区": "U",
+    "Location": [
+      114.163825,
+      22.276284
+    ],
+    "Name": "梧桐寨瀑布",
+    "Address": "香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T281",
+    "行政区": "大埔区",
+    "Location": [
+      114.218449,
+      22.45358
+    ],
+    "Name": "马屎洲特别地区",
+    "Address": "三门仔路, 香港, 中国",
+    "District": "",
+    "RoadInfo": "三门仔路",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T282",
+    "行政区": "湾仔区",
+    "Location": [
+      114.174541,
+      22.274228
+    ],
+    "Name": "湾仔历史文物径",
+    "Address": "皇后大道东, 香港, 中国",
+    "District": "",
+    "RoadInfo": "皇后大道",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T283",
+    "行政区": "中西区",
+    "Location": [
+      114.162952,
+      22.282068
+    ],
+    "Name": "霍士杰温室",
+    "Address": "中环香港公园内, 香港, 中国",
+    "District": "中环",
+    "RoadInfo": "",
+    "Poi": "香港公园",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T284",
+    "行政区": "油尖旺区",
+    "Location": [
+      114.176268,
+      22.302908
+    ],
+    "Name": "溜冰汤",
+    "Address": "九龙尖沙咀柯士甸道西一号圆方商场地下层, 香港, 中国",
+    "District": "尖沙咀",
+    "RoadInfo": "柯士甸道西一号",
+    "Poi": "圆方商场",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T285",
+    "行政区": "湾仔区",
+    "Location": [
+      114.189411,
+      22.272828
+    ],
+    "Name": "圣玛加利大堂",
+    "Address": "跑马地乐活道2.号, 香港, 中国",
+    "District": "跑马地",
+    "RoadInfo": "乐活道2.号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T286",
+    "行政区": "湾仔区",
+    "Location": [
+      114.178841,
+      22.270873
+    ],
+    "Name": "香港故事館",
+    "Address": "石水渠街72个号, 香港, 中国",
+    "District": "",
+    "RoadInfo": "石水渠街72个号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T287",
+    "行政区": "油尖旺区",
+    "Location": [
+      114.18596,
+      22.302688
+    ],
+    "Name": "LS Spa & Massage (Kwun Tong)",
+    "Address": "香港中环海源道55号海联工业中心，，香港, 中国",
+    "District": "中环",
+    "RoadInfo": "海源道55号",
+    "Poi": "海联工业中心",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T288",
+    "行政区": "荃湾区",
+    "Location": [
+      114.06603,
+      22.346103
+    ],
+    "Name": "东湾",
+    "Address": "新界西荃湾区马湾, 香港, 中国",
+    "District": "荃湾区",
+    "RoadInfo": "",
+    "Poi": "马湾",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T289",
+    "行政区": "深水埗区",
+    "Location": [
+      114.15182,
+      22.331542
+    ],
+    "Name": "香港西九龙站",
+    "Address": "香港西九龍站, 香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "西九龍站",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T290",
+    "行政区": "南区",
+    "Location": [
+      114.204064,
+      22.230635
+    ],
+    "Name": "香港南湾",
+    "Address": "南区南湾道, 香港, 中国",
+    "District": "南区",
+    "RoadInfo": "南湾道",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T291",
+    "行政区": "U",
+    "Location": [
+      null,
+      null
+    ],
+    "Name": "南丫岛渔民文化村",
+    "Address": "南丫岛索罟湾5.号, 香港, 中国",
+    "District": "南丫岛索罟湾",
+    "RoadInfo": "",
+    "Poi": "",
+    "RoomInfo": "5.号"
+  },
+  {
+    "id": "T292",
+    "行政区": "元朗区",
+    "Location": [
+      114.012261,
+      22.441782
+    ],
+    "Name": "觐廷书室",
+    "Address": "屏山坑尾村, 香港, 中国",
+    "District": "屏山坑尾村",
+    "RoadInfo": "",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T293",
+    "行政区": "中西区",
+    "Location": [
+      114.162952,
+      22.282068
+    ],
+    "Name": "香港礼宾府",
+    "Address": "香港岛湾仔区亚厘毕道, 香港, 中国",
+    "District": "湾仔区",
+    "RoadInfo": "亚厘毕道",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T294",
+    "行政区": "九龙城区",
+    "Location": [
+      114.183675,
+      22.324225
+    ],
+    "Name": "园圃街雀鸟公园",
+    "Address": "深水埗区界限街, 香港, 中国",
+    "District": "深水埗区",
+    "RoadInfo": "界限街",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T295",
+    "行政区": "荃湾区",
+    "Location": [
+      114.124189,
+      22.374775
+    ],
+    "Name": "竹林禅院",
+    "Address": "芙蓉山路, 香港, 中国",
+    "District": "",
+    "RoadInfo": "芙蓉山路",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T296",
+    "行政区": "荃湾区",
+    "Location": [
+      114.120383,
+      22.365683
+    ],
+    "Name": "Triangle Plus Adventure Park",
+    "Address": "杨屋道88号，香港, 中国",
+    "District": "",
+    "RoadInfo": "杨屋道88号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T297",
+    "行政区": "思明区",
+    "Location": [
+      118.118797,
+      24.47387
+    ],
+    "Name": "厦门湾泳滩",
+    "Address": "新界厦门湾桥咀洲, 香港, 中国",
+    "District": "厦门湾",
+    "RoadInfo": "",
+    "Poi": "桥咀洲",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T298",
+    "行政区": "湾仔区",
+    "Location": [
+      114.189409,
+      22.278213
+    ],
+    "Name": "香港花展相片集",
+    "Address": "铜锣湾维多利亚公园, 香港, 中国",
+    "District": "铜锣湾",
+    "RoadInfo": "",
+    "Poi": "维多利亚公园",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T299",
+    "行政区": "东区",
+    "Location": [
+      114.227828,
+      22.28466
+    ],
+    "Name": "葛量洪号灭火轮展览馆",
+    "Address": "鰂鱼涌公园, 香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "鰂鱼涌公园",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T300",
+    "行政区": "葵青区",
+    "Location": [
+      114.127697,
+      22.349421
+    ],
+    "Name": "将军澳",
+    "Address": "九龙, 香港, 中国",
+    "District": "九龙",
+    "RoadInfo": "",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T301",
+    "行政区": "九龙城区",
+    "Location": [
+      114.19727,
+      22.316125
+    ],
+    "Name": "罗桂祥茶艺馆",
+    "Address": "红棉路10号地下, 香港, 中国",
+    "District": "",
+    "RoadInfo": "红棉路10号",
+    "Poi": "地下",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T302",
+    "行政区": "中西区",
+    "Location": [
+      114.162806,
+      22.277789
+    ],
+    "Name": "都爹利街",
+    "Address": "中环皇后大道中以南, 香港, 中国",
+    "District": "中环",
+    "RoadInfo": "皇后大道",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T303",
+    "行政区": "U",
+    "Location": [
+      null,
+      null
+    ],
+    "Name": "青屿干线观景台",
+    "Address": "西北部青衣岛, 香港, 中国",
+    "District": "西北部",
+    "RoadInfo": "",
+    "Poi": "青衣岛",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T304",
+    "行政区": "深水埗区",
+    "Location": [
+      114.165062,
+      22.335219
+    ],
+    "Name": "李郑屋汉墓博物馆",
+    "Address": "东京街41号, 香港, 中国",
+    "District": "",
+    "RoadInfo": "东京街41号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T305",
+    "行政区": "屯门区",
+    "Location": [
+      113.966947,
+      22.389242
+    ],
+    "Name": "青山禅院",
+    "Address": "屯门青山寺径, 香港, 中国",
+    "District": "屯门",
+    "RoadInfo": "",
+    "Poi": "青山寺径",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T306",
+    "行政区": "湾仔区",
+    "Location": [
+      114.17582,
+      22.272728
+    ],
+    "Name": "湾仔洪圣古庙",
+    "Address": "香港岛中西区皇后大道东129号, 香港, 中国",
+    "District": "中西区",
+    "RoadInfo": "皇后大道129号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T307",
+    "行政区": "东区",
+    "Location": [
+      114.197364,
+      22.277151
+    ],
+    "Name": "莲花宫",
+    "Address": "莲花宫西街, 香港, 中国",
+    "District": "",
+    "RoadInfo": "西街",
+    "Poi": "莲花宫",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T308",
+    "行政区": "中西区",
+    "Location": [
+      114.159314,
+      22.281517
+    ],
+    "Name": "香港中环中心",
+    "Address": "皇后大道中99号, 香港, 中国",
+    "District": "",
+    "RoadInfo": "皇后大道中99号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T309",
+    "行政区": "中西区",
+    "Location": [
+      114.154566,
+      22.282122
+    ],
+    "Name": "两依藏博物馆",
+    "Address": "荷李活道181-199年号, 香港, 中国",
+    "District": "",
+    "RoadInfo": "荷李活道181-199年号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T310",
+    "行政区": "屯门区",
+    "Location": [
+      113.979991,
+      22.395616
+    ],
+    "Name": "香港落马洲",
+    "Address": "新界北区, 香港, 中国",
+    "District": "北区",
+    "RoadInfo": "",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T311",
+    "行政区": "南区",
+    "Location": [
+      114.21827,
+      22.215294
+    ],
+    "Name": "赤柱国殇纪念坟场",
+    "Address": "黄麻角道, 香港, 中国",
+    "District": "",
+    "RoadInfo": "黄麻角道",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T312",
+    "行政区": "中西区",
+    "Location": [
+      114.173528,
+      22.274215
+    ],
+    "Name": "湾仔邮政局",
+    "Address": "湾仔区皇后大道221号, 香港, 中国",
+    "District": "湾仔区",
+    "RoadInfo": "皇后大道221号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T313",
+    "行政区": "南区",
+    "Location": [
+      114.222641,
+      22.20871
+    ],
+    "Name": "惩教博物馆",
+    "Address": "香港岛南区东头湾道, 香港, 中国",
+    "District": "南区",
+    "RoadInfo": "东头湾道",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T314",
+    "行政区": "中西区",
+    "Location": [
+      114.13512,
+      22.272172
+    ],
+    "Name": "薄扶林郊野公园",
+    "Address": "薄扶林道, 香港, 中国",
+    "District": "",
+    "RoadInfo": "薄扶林道",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T315",
+    "行政区": "湾仔区",
+    "Location": [
+      114.172594,
+      22.264648
+    ],
+    "Name": "警事博物馆",
+    "Address": "湾仔甘道27号, 香港, 中国",
+    "District": "",
+    "RoadInfo": "湾仔甘道27号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T316",
+    "行政区": "深水埗区",
+    "Location": [
+      114.15182,
+      22.331542
+    ],
+    "Name": "Hong Kong Palace Museum",
+    "Address": "西九龙文化区，香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "西九龙文化区",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T317",
+    "行政区": "U",
+    "Location": [
+      114.163825,
+      22.276284
+    ],
+    "Name": "M+ Museum",
+    "Address": "香港西九文化区博物馆道38号",
+    "District": "西九文化区",
+    "RoadInfo": "博物馆道38号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T318",
+    "行政区": "中西区",
+    "Location": [
+      114.162952,
+      22.282068
+    ],
+    "Name": "皇后大道东",
+    "Address": "香港岛湾仔区西环, 香港, 中国",
+    "District": "湾仔区",
+    "RoadInfo": "",
+    "Poi": "西环",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T319",
+    "行政区": "葵青区",
+    "Location": [
+      114.127697,
+      22.349421
+    ],
+    "Name": "魔鬼山",
+    "Address": "九龙魔鬼峰，香港, 中国",
+    "District": "九龙",
+    "RoadInfo": "",
+    "Poi": "魔鬼峰",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T320",
+    "行政区": "荃湾区",
+    "Location": [
+      114.065557,
+      22.344854
+    ],
+    "Name": "挪亚方舟",
+    "Address": "新界马湾珀欣路33号, 香港, 中国",
+    "District": "马湾",
+    "RoadInfo": "珀欣路33号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T321",
+    "行政区": "U",
+    "Location": [
+      null,
+      null
+    ],
+    "Name": "德辅道西",
+    "Address": "太平洋广场，香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "太平洋广场",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T322",
+    "行政区": "U",
+    "Location": [
+      null,
+      null
+    ],
+    "Name": "林村天后庙",
+    "Address": "大埔区, 香港, 中国",
+    "District": "大埔区",
+    "RoadInfo": "",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T323",
+    "行政区": "中西区",
+    "Location": [
+      114.153447,
+      22.282856
+    ],
+    "Name": "楼梯街",
+    "Address": "香港岛湾仔区荷李活道, 香港, 中国",
+    "District": "湾仔区",
+    "RoadInfo": "荷李活道",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T324",
+    "行政区": "观塘区",
+    "Location": [
+      114.224124,
+      22.307871
+    ],
+    "Name": "一新美术馆",
+    "Address": "九龙观塘海滨道165号表面活性剂大厦4.楼, 香港, 中国",
+    "District": "观塘",
+    "RoadInfo": "海滨道165号",
+    "Poi": "表面活性剂大厦",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T325",
+    "行政区": "中西区",
+    "Location": [
+      114.173528,
+      22.274215
+    ],
+    "Name": "皇后像广场",
+    "Address": "香港岛中西区皇后大道, 香港, 中国",
+    "District": "中西区",
+    "RoadInfo": "皇后大道",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T326",
+    "行政区": "南区",
+    "Location": [
+      114.200263,
+      22.235277
+    ],
+    "Name": "Kwun Yam Statue (Repulse Bay)",
+    "Address": "浅水湾泳滩，香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "浅水湾泳滩",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T327",
+    "行政区": "中西区",
+    "Location": [
+      114.165333,
+      22.278195
+    ],
+    "Name": "前立法会大楼",
+    "Address": "昃臣道8.号, 香港, 中国",
+    "District": "",
+    "RoadInfo": "昃臣道8.号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T328",
+    "行政区": "大埔区",
+    "Location": [
+      114.237197,
+      22.470368
+    ],
+    "Name": "船湾淡水湖",
+    "Address": "大尾笃, 香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "大尾笃",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T329",
+    "行政区": "离岛区",
+    "Location": [
+      113.942515,
+      22.313335
+    ],
+    "Name": "亚洲国际博览馆",
+    "Address": "香港国际机场, 香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "香港国际机场",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T330",
+    "行政区": "湾仔区",
+    "Location": [
+      114.176963,
+      22.271713
+    ],
+    "Name": "合和中心",
+    "Address": "湾仔皇后大道东183号, 香港, 中国",
+    "District": "湾仔",
+    "RoadInfo": "皇后大道183号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T331",
+    "行政区": "中西区",
+    "Location": [
+      114.163721,
+      22.279583
+    ],
+    "Name": "交易广场",
+    "Address": "干诺道中8.号, 香港, 中国",
+    "District": "",
+    "RoadInfo": "干诺道中8.号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T332",
+    "行政区": "U",
+    "Location": [
+      null,
+      null
+    ],
+    "Name": "新渡轮",
+    "Address": "渡轮口岸, 香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "渡轮口岸",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T333",
+    "行政区": "U",
+    "Location": [
+      null,
+      null
+    ],
+    "Name": "屏山文物径",
+    "Address": "元朗区上璋围村,粉岭, 香港, 中国",
+    "District": "元朗区上璋围村",
+    "RoadInfo": "",
+    "Poi": "粉岭",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T334",
+    "行政区": "U",
+    "Location": [
+      null,
+      null
+    ],
+    "Name": "圆玄学院",
+    "Address": "新界西荃湾区三叠潭, 香港, 中国",
+    "District": "荃湾区",
+    "RoadInfo": "",
+    "Poi": "三叠潭",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T335",
+    "行政区": "中西区",
+    "Location": [
+      114.164412,
+      22.278625
+    ],
+    "Name": "遮打花园",
+    "Address": "遮打道 , 香港, 中国",
+    "District": "",
+    "RoadInfo": "遮打道",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T336",
+    "行政区": "南区",
+    "Location": [
+      114.21398,
+      22.217759
+    ],
+    "Name": "美利楼",
+    "Address": "香港岛南区佳美道, 香港, 中国",
+    "District": "南区",
+    "RoadInfo": "佳美道",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T337",
+    "行政区": "中西区",
+    "Location": [
+      114.164772,
+      22.282318
+    ],
+    "Name": "金管局",
+    "Address": "中环金融街8.号国际金融中心二期55楼, 香港, 中国",
+    "District": "中环",
+    "RoadInfo": "金融街8.号",
+    "Poi": "国际金融中心二期",
+    "RoomInfo": "55楼"
+  },
+  {
+    "id": "T338",
+    "行政区": "湾仔区",
+    "Location": [
+      114.193973,
+      22.257407
+    ],
+    "Name": "Hong Kong Trail",
+    "Address": "香港岛，香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T339",
+    "行政区": "油尖旺区",
+    "Location": [
+      114.176268,
+      22.302908
+    ],
+    "Name": "尖沙咀玫瑰堂",
+    "Address": "尖沙咀漆咸道南125号, 香港, 中国",
+    "District": "尖沙咀",
+    "RoadInfo": "漆咸道南125号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T340",
+    "行政区": "南区",
+    "Location": [
+      114.214557,
+      22.222725
+    ],
+    "Name": "卫奕信径",
+    "Address": "香港岛南区赤柱峡道, 香港, 中国",
+    "District": "南区",
+    "RoadInfo": "赤柱峡道",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T341",
+    "行政区": "深水埗区",
+    "Location": [
+      114.168626,
+      22.331271
+    ],
+    "Name": "美荷楼生活馆",
+    "Address": "深水埗石硤尾邨41座, 香港, 中国",
+    "District": "深水埗石硤尾邨",
+    "RoadInfo": "",
+    "Poi": "",
+    "RoomInfo": "41座"
+  },
+  {
+    "id": "T342",
+    "行政区": "U",
+    "Location": [
+      114.163825,
+      22.276284
+    ],
+    "Name": "杯澳",
+    "Address": "香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T343",
+    "行政区": "东区",
+    "Location": [
+      114.219675,
+      22.283189
+    ],
+    "Name": "鲗鱼涌公园",
+    "Address": "鲗鱼涌太古城, 香港, 中国",
+    "District": "鲗鱼涌",
+    "RoadInfo": "",
+    "Poi": "太古城",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T344",
+    "行政区": "中西区",
+    "Location": [
+      114.166228,
+      22.256814
+    ],
+    "Name": "阿伯丁港口",
+    "Address": "香港岛南麓, 香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "南麓",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T345",
+    "行政区": "东区",
+    "Location": [
+      114.194581,
+      22.277141
+    ],
+    "Name": "香港中央图书馆",
+    "Address": "高士威道六十六號, 香港, 中国",
+    "District": "",
+    "RoadInfo": "高士威道六十六號",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T346",
+    "行政区": "葵青区",
+    "Location": [
+      114.127697,
+      22.349421
+    ],
+    "Name": "红磡",
+    "Address": "九龙区, 香港, 中国",
+    "District": "九龙区",
+    "RoadInfo": "",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T347",
+    "行政区": "油尖旺区",
+    "Location": [
+      114.173839,
+      22.293338
+    ],
+    "Name": "香港太空馆",
+    "Address": "九龙尖沙嘴梳士巴利道10号, 香港, 中国",
+    "District": "尖沙嘴",
+    "RoadInfo": "梳士巴利道10号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T348",
+    "行政区": "荃湾区",
+    "Location": [
+      114.125247,
+      22.36944
+    ],
+    "Name": "三栋屋博物馆",
+    "Address": "荃湾古屋里2.号, 香港, 中国",
+    "District": "荃湾",
+    "RoadInfo": "古屋里2.号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T349",
+    "行政区": "中西区",
+    "Location": [
+      114.16887,
+      22.27711
+    ],
+    "Name": "海军部",
+    "Address": "香港岛中环德立街, 香港, 中国",
+    "District": "中环",
+    "RoadInfo": "德立街",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T350",
+    "行政区": "油尖旺区",
+    "Location": [
+      114.173839,
+      22.293338
+    ],
+    "Name": "香港新春花車巡遊",
+    "Address": "九龍尖沙咀, 香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T351",
+    "行政区": "U",
+    "Location": [
+      114.163825,
+      22.276284
+    ],
+    "Name": "Tung Ping Chau",
+    "Address": "香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T352",
+    "行政区": "离岛区",
+    "Location": [
+      113.942025,
+      22.313095
+    ],
+    "Name": "Plaza Premium First Hong Kong",
+    "Address": "赤鱲角翔天路1.号, 香港, 中国",
+    "District": "赤鱲角",
+    "RoadInfo": "翔天路1.号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T353",
+    "行政区": "中西区",
+    "Location": [
+      114.153622,
+      22.280762
+    ],
+    "Name": "香港医学博物馆",
+    "Address": "坚巷2.号, 香港, 中国",
+    "District": "",
+    "RoadInfo": "市坚巷2.号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T354",
+    "行政区": "葵青区",
+    "Location": [
+      114.127697,
+      22.349421
+    ],
+    "Name": "香港钻石山",
+    "Address": "九龙, 香港, 中国",
+    "District": "九龙",
+    "RoadInfo": "",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T355",
+    "行政区": "U",
+    "Location": [
+      null,
+      null
+    ],
+    "Name": "香港大浪湾",
+    "Address": "西贡区西贡半岛东部, 香港, 中国",
+    "District": "西贡区",
+    "RoadInfo": "",
+    "Poi": "西贡半岛",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T356",
+    "行政区": "中西区",
+    "Location": [
+      114.162806,
+      22.277789
+    ],
+    "Name": "汇丰总行大厦",
+    "Address": "皇后大道中, 香港, 中国",
+    "District": "",
+    "RoadInfo": "皇后大道",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T357",
+    "行政区": "九龙城区",
+    "Location": [
+      114.19102,
+      22.302514
+    ],
+    "Name": "香港体育馆(红馆)",
+    "Address": "九龙油尖旺区红磡畅运道9号, 香港, 中国",
+    "District": "油尖旺区红磡",
+    "RoadInfo": "畅运道9号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T358",
+    "行政区": "湾仔区",
+    "Location": [
+      114.173859,
+      22.27668
+    ],
+    "Name": "Tamar Park",
+    "Address": "金钟夏佳道，香港, 中国",
+    "District": "金钟",
+    "RoadInfo": "夏佳道",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T359",
+    "行政区": "油尖旺区",
+    "Location": [
+      114.175335,
+      22.291329
+    ],
+    "Name": "香港龍獅節",
+    "Address": "从香港文化中心开始，香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "香港文化中心",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T360",
+    "行政区": "中西区",
+    "Location": [
+      114.167459,
+      22.27579
+    ],
+    "Name": "茶具文物馆",
+    "Address": "红棉路10号, 香港, 中国",
+    "District": "",
+    "RoadInfo": "红棉路10号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T361",
+    "行政区": "大埔区",
+    "Location": [
+      114.169341,
+      22.444809
+    ],
+    "Name": "香港铁路博物馆",
+    "Address": "大埔大埔墟崇德街13号, 香港, 中国",
+    "District": "大埔墟",
+    "RoadInfo": "崇德街13号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T362",
+    "行政区": "葵青区",
+    "Location": [
+      114.127697,
+      22.349421
+    ],
+    "Name": "荃湾",
+    "Address": "九龙西北部, 香港, 中国",
+    "District": "九龙",
+    "RoadInfo": "",
+    "Poi": "西北部",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T363",
+    "行政区": "油尖旺区",
+    "Location": [
+      114.173839,
+      22.293338
+    ],
+    "Name": "香港艺术馆",
+    "Address": "九龙油尖旺区梳士巴利道10号, 香港, 中国",
+    "District": "油尖旺区",
+    "RoadInfo": "梳士巴利道10号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T364",
+    "行政区": "油尖旺区",
+    "Location": [
+      114.173839,
+      22.293338
+    ],
+    "Name": "香港文物探知馆",
+    "Address": "九龙尖沙咀海防道, 香港, 中国",
+    "District": "尖沙咀",
+    "RoadInfo": "海防道",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T365",
+    "行政区": "中西区",
+    "Location": [
+      114.154944,
+      22.267672
+    ],
+    "Name": "香港特丽爱3D美术馆",
+    "Address": "山顶道118号, 香港, 中国",
+    "District": "",
+    "RoadInfo": "山顶道118号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T366",
+    "行政区": "井研县",
+    "Location": [
+      104.018977,
+      29.79393
+    ],
+    "Name": "香港花卉展覽",
+    "Address": "銅鑼灣興發街1.號, 香港, 中国",
+    "District": "",
+    "RoadInfo": "興發街1.號",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T367",
+    "行政区": "湾仔区",
+    "Location": [
+      114.178013,
+      22.280418
+    ],
+    "Name": "香港书展",
+    "Address": "湾仔博览道1.号, 香港, 中国",
+    "District": "湾仔",
+    "RoadInfo": "博览道1.号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T368",
+    "行政区": "油尖旺区",
+    "Location": [
+      114.173839,
+      22.293338
+    ],
+    "Name": "前九广铁路钟楼",
+    "Address": "梳士巴利道, 香港, 中国",
+    "District": "",
+    "RoadInfo": "梳士巴利道",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T369",
+    "行政区": "中西区",
+    "Location": [
+      114.13512,
+      22.272172
+    ],
+    "Name": "香港大学",
+    "Address": "薄扶林道, 香港, 中国",
+    "District": "",
+    "RoadInfo": "薄扶林道",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T370",
+    "行政区": "九龙城区",
+    "Location": [
+      114.192847,
+      22.31251
+    ],
+    "Name": "油麻地天后庙",
+    "Address": "香港区域: 九龙",
+    "District": "区域",
+    "RoadInfo": "",
+    "Poi": " 九龙",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T371",
+    "行政区": "U",
+    "Location": [
+      null,
+      null
+    ],
+    "Name": "青马大桥",
+    "Address": "青衣岛, 香港, 中国",
+    "District": "青衣岛",
+    "RoadInfo": "",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T372",
+    "行政区": "中西区",
+    "Location": [
+      114.15476,
+      22.286567
+    ],
+    "Name": "香港龍舟嘉年華",
+    "Address": "中西區, 香港, 中国",
+    "District": "中西區",
+    "RoadInfo": "",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T373",
+    "行政区": "U",
+    "Location": [
+      null,
+      null
+    ],
+    "Name": "长洲太平清醮",
+    "Address": "长洲岛，香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "长洲岛",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T374",
+    "行政区": "中西区",
+    "Location": [
+      114.16655,
+      22.276551
+    ],
+    "Name": "中银大厦",
+    "Address": "香港花园道1.号, 香港, 中国",
+    "District": "",
+    "RoadInfo": "花园道1.号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T375",
+    "行政区": "油尖旺区",
+    "Location": [
+      114.173839,
+      22.293338
+    ],
+    "Name": "香港文化中心",
+    "Address": "梳士巴利道10号, 香港, 中国",
+    "District": "",
+    "RoadInfo": "梳士巴利道10号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T376",
+    "行政区": "观塘区",
+    "Location": [
+      114.23023,
+      22.309705
+    ],
+    "Name": "Old Peak Road",
+    "Address": "维多利亚峡，香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "维多利亚峡",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T377",
+    "行政区": "中西区",
+    "Location": [
+      114.162952,
+      22.282068
+    ],
+    "Name": "港澳码头",
+    "Address": "上环信德中心, 香港, 中国",
+    "District": "上环",
+    "RoadInfo": "",
+    "Poi": "信德中心",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T378",
+    "行政区": "屯门区",
+    "Location": [
+      113.979363,
+      22.393569
+    ],
+    "Name": "坪洲岛",
+    "Address": "香港区域: 新界",
+    "District": "区域",
+    "RoadInfo": "",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T379",
+    "行政区": "油尖旺区",
+    "Location": [
+      114.173839,
+      22.293338
+    ],
+    "Name": "星光大道",
+    "Address": "九龙尖沙咀梳士巴利道20号, 香港, 中国",
+    "District": "尖沙咀",
+    "RoadInfo": "梳士巴利道20号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T380",
+    "行政区": "东区",
+    "Location": [
+      114.195922,
+      22.279727
+    ],
+    "Name": "维多利亚公园年宵市场",
+    "Address": "兴发街1.号, 香港, 中国",
+    "District": "",
+    "RoadInfo": "兴发街1.号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T381",
+    "行政区": "中西区",
+    "Location": [
+      114.154341,
+      22.268708
+    ],
+    "Name": "山顶凌霄阁",
+    "Address": "维多利亚山顶卢吉道1.号, 香港, 中国",
+    "District": "",
+    "RoadInfo": "卢吉道1.号",
+    "Poi": "维多利亚山顶",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T382",
+    "行政区": "油尖旺区",
+    "Location": [
+      114.173839,
+      22.293338
+    ],
+    "Name": "香港除夕倒数",
+    "Address": "在维多利亚港周围，香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "维多利亚港",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T383",
+    "行政区": "U",
+    "Location": [
+      null,
+      null
+    ],
+    "Name": "天后庙",
+    "Address": "56至58庙街, 香港, 中国",
+    "District": "",
+    "RoadInfo": "56至58庙街",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T384",
+    "行政区": "U",
+    "Location": [
+      114.163825,
+      22.276284
+    ],
+    "Name": "金光飛航",
+    "Address": "渡轮口, 香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "渡轮口",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T385",
+    "行政区": "元朗区",
+    "Location": [
+      114.010686,
+      22.463248
+    ],
+    "Name": "香港湿地公园",
+    "Address": "新界天水围湿地公园路, 香港, 中国",
+    "District": "天水围",
+    "RoadInfo": "湿地公园路",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T386",
+    "行政区": "井研县",
+    "Location": [
+      104.018977,
+      29.79393
+    ],
+    "Name": "维多利亚公园",
+    "Address": "铜锣湾兴发街1.号, 香港, 中国",
+    "District": "",
+    "RoadInfo": "兴发街1.号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T387",
+    "行政区": "中西区",
+    "Location": [
+      114.166668,
+      22.282657
+    ],
+    "Name": "中环海滨摩天轮",
+    "Address": "民光街33號, 香港, 中国",
+    "District": "",
+    "RoadInfo": "民光街33號",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T388",
+    "行政区": "中西区",
+    "Location": [
+      114.161078,
+      22.276122
+    ],
+    "Name": "香港动植物公园",
+    "Address": "雅宾利道, 香港, 中国",
+    "District": "",
+    "RoadInfo": "雅宾利道",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T389",
+    "行政区": "中西区",
+    "Location": [
+      114.164559,
+      22.275364
+    ],
+    "Name": "山顶缆车",
+    "Address": "中环花园道33号, 香港, 中国",
+    "District": "中环",
+    "RoadInfo": "花园道33号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T390",
+    "行政区": "中西区",
+    "Location": [
+      114.16211,
+      22.282197
+    ],
+    "Name": "国际金融中心一期",
+    "Address": "港景街1.号, 香港, 中国",
+    "District": "",
+    "RoadInfo": "港景街1.号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T391",
+    "行政区": "沙田区",
+    "Location": [
+      114.189536,
+      22.371742
+    ],
+    "Name": "车公庙",
+    "Address": "车公庙路, 香港, 中国",
+    "District": "",
+    "RoadInfo": "车公庙路",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T392",
+    "行政区": "屯门区",
+    "Location": [
+      113.979991,
+      22.395616
+    ],
+    "Name": "麦理浩径",
+    "Address": "新界东西贡区, 香港, 中国",
+    "District": "西贡区",
+    "RoadInfo": "",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T393",
+    "行政区": "U",
+    "Location": [
+      114.163825,
+      22.276284
+    ],
+    "Name": "湾仔",
+    "Address": "香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T394",
+    "行政区": "南区",
+    "Location": [
+      114.18027,
+      22.245282
+    ],
+    "Name": "香港海洋公园",
+    "Address": "香港仔黄竹坑道180号, 香港, 中国",
+    "District": "",
+    "RoadInfo": "黄竹坑道180号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T395",
+    "行政区": "中西区",
+    "Location": [
+      114.162952,
+      22.282068
+    ],
+    "Name": "兰桂坊",
+    "Address": "中环, 香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "中环",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T396",
+    "行政区": "泸西县",
+    "Location": [
+      103.760822,
+      24.533424
+    ],
+    "Name": "九龙城寨公园",
+    "Address": "东正道, 香港, 中国",
+    "District": "",
+    "RoadInfo": "东正道",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T397",
+    "行政区": "深水埗区",
+    "Location": [
+      114.163242,
+      22.333855
+    ],
+    "Name": "深水埗",
+    "Address": "深水埗，香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "深水埗",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T398",
+    "行政区": "葵青区",
+    "Location": [
+      114.127697,
+      22.349421
+    ],
+    "Name": "九龙城",
+    "Address": "九龙, 香港, 中国",
+    "District": "九龙",
+    "RoadInfo": "",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T399",
+    "行政区": "黄大仙区",
+    "Location": [
+      114.198279,
+      22.339933
+    ],
+    "Name": "黄大仙祠",
+    "Address": "九龙竹园道2.号, 香港, 中国",
+    "District": "九龙",
+    "RoadInfo": "竹园道2.号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T400",
+    "行政区": "U",
+    "Location": [
+      114.163825,
+      22.276284
+    ],
+    "Name": "浅水湾泳滩",
+    "Address": "南区太平山南面, 香港, 中国",
+    "District": "南区",
+    "RoadInfo": "",
+    "Poi": "太平山",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T401",
+    "行政区": "湾仔区",
+    "Location": [
+      114.178917,
+      22.271983
+    ],
+    "Name": "铜锣湾",
+    "Address": "湾仔以东，北角以西, 香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "北角湾仔",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T402",
+    "行政区": "葵青区",
+    "Location": [
+      114.127697,
+      22.349421
+    ],
+    "Name": "旺角",
+    "Address": "九龙, 香港, 中国",
+    "District": "九龙",
+    "RoadInfo": "",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T403",
+    "行政区": "东区",
+    "Location": [
+      114.239782,
+      22.279572
+    ],
+    "Name": "香港海防博物馆",
+    "Address": "筲箕湾东喜道175号, 香港, 中国",
+    "District": "筲箕湾",
+    "RoadInfo": "东喜道175号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T404",
+    "行政区": "油尖旺区",
+    "Location": [
+      114.176268,
+      22.302908
+    ],
+    "Name": "尖东",
+    "Address": "九龙油尖旺区, 香港, 中国",
+    "District": "油尖旺区",
+    "RoadInfo": "",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T405",
+    "行政区": "U",
+    "Location": [
+      null,
+      null
+    ],
+    "Name": "南丫岛",
+    "Address": "南丫岛离岛区，香港, 中国",
+    "District": "南丫岛",
+    "RoadInfo": "",
+    "Poi": "离岛区",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T406",
+    "行政区": "油尖旺区",
+    "Location": [
+      114.176268,
+      22.302908
+    ],
+    "Name": "香港科学馆",
+    "Address": "尖沙咀科学馆道2.号, 香港, 中国",
+    "District": "尖沙咀",
+    "RoadInfo": "科学馆道2.号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T407",
+    "行政区": "湾仔区",
+    "Location": [
+      114.193555,
+      22.270246
+    ],
+    "Name": "香港國際七人欖球賽",
+    "Address": "掃桿埔東院道55號, 香港, 中国",
+    "District": "掃桿埔",
+    "RoadInfo": "東院道55號",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T408",
+    "行政区": "U",
+    "Location": [
+      114.163825,
+      22.276284
+    ],
+    "Name": "长洲岛",
+    "Address": "香港西南面, 香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T409",
+    "行政区": "离岛区",
+    "Location": [
+      114.021362,
+      22.305926
+    ],
+    "Name": "凤凰径",
+    "Address": "新界西离岛区大屿山, 香港, 中国",
+    "District": "离岛区",
+    "RoadInfo": "",
+    "Poi": "大屿山",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T410",
+    "行政区": "湾仔区",
+    "Location": [
+      114.19355,
+      22.270244
+    ],
+    "Name": "香港大球场",
+    "Address": "东院道55号, 香港, 中国",
+    "District": "",
+    "RoadInfo": "东院道55号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T411",
+    "行政区": "离岛区",
+    "Location": [
+      113.94359,
+      22.287176
+    ],
+    "Name": "昂坪360缆车",
+    "Address": "大屿山东涌达东路11号, 香港, 中国",
+    "District": "大屿山东涌",
+    "RoadInfo": "达东路11号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T412",
+    "行政区": "屯门区",
+    "Location": [
+      113.979991,
+      22.395616
+    ],
+    "Name": "南大屿郊野公园",
+    "Address": "新界西大屿山, 香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "大屿山",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T413",
+    "行政区": "油尖旺区",
+    "Location": [
+      114.179224,
+      22.290564
+    ],
+    "Name": "石澳",
+    "Address": "海洋公园南部, 香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "海洋公园南部",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T414",
+    "行政区": "大埔区",
+    "Location": [
+      114.127685,
+      22.435814
+    ],
+    "Name": "嘉道理农场暨植物园",
+    "Address": "新界林锦公路, 香港, 中国",
+    "District": "",
+    "RoadInfo": "林锦公路",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T415",
+    "行政区": "沙田区",
+    "Location": [
+      114.189714,
+      22.374983
+    ],
+    "Name": "香港文化博物馆",
+    "Address": "沙田文礼路1.号, 香港, 中国",
+    "District": "沙田",
+    "RoadInfo": "文礼路1.号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T416",
+    "行政区": "中西区",
+    "Location": [
+      114.162598,
+      22.285182
+    ],
+    "Name": "香港海事博物馆",
+    "Address": "民光街, 香港, 中国",
+    "District": "",
+    "RoadInfo": "民光街",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T417",
+    "行政区": "葵青区",
+    "Location": [
+      114.127697,
+      22.349421
+    ],
+    "Name": "尖沙咀",
+    "Address": "九龙, 香港, 中国",
+    "District": "九龙",
+    "RoadInfo": "",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T418",
+    "行政区": "屯门区",
+    "Location": [
+      113.979991,
+      22.395616
+    ],
+    "Name": "香港西贡",
+    "Address": "新界东西贡区, 香港, 中国",
+    "District": "西贡区",
+    "RoadInfo": "",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T419",
+    "行政区": "油尖旺区",
+    "Location": [
+      114.176268,
+      22.302908
+    ],
+    "Name": "天际100香港观景台",
+    "Address": "九龙柯士甸道西1.号, 香港, 中国",
+    "District": "",
+    "RoadInfo": "柯士甸道西1.号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T420",
+    "行政区": "中西区",
+    "Location": [
+      114.162952,
+      22.282068
+    ],
+    "Name": "香港维多利亚海港",
+    "Address": "香港岛中西区, 香港, 中国",
+    "District": "中西区",
+    "RoadInfo": "",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T421",
+    "行政区": "沙田区",
+    "Location": [
+      114.194239,
+      22.380527
+    ],
+    "Name": "万佛寺",
+    "Address": "沙田, 香港, 中国",
+    "District": "沙田",
+    "RoadInfo": "",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T422",
+    "行政区": "离岛区",
+    "Location": [
+      114.021362,
+      22.305926
+    ],
+    "Name": "宝莲禅寺",
+    "Address": "大屿山, 香港, 中国",
+    "District": "大屿山",
+    "RoadInfo": "",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T423",
+    "行政区": "U",
+    "Location": [
+      114.163825,
+      22.276284
+    ],
+    "Name": "大屿山",
+    "Address": "香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T424",
+    "行政区": "油尖旺区",
+    "Location": [
+      114.176268,
+      22.302908
+    ],
+    "Name": "香港历史博物馆",
+    "Address": "九龙尖沙嘴东漆咸道南100号, 香港, 中国",
+    "District": "尖沙嘴东",
+    "RoadInfo": "漆咸道南100号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T425",
+    "行政区": "U",
+    "Location": [
+      114.163825,
+      22.276284
+    ],
+    "Name": "香港电车（叮叮车）",
+    "Address": "香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T426",
+    "行政区": "黄大仙区",
+    "Location": [
+      114.206896,
+      22.337995
+    ],
+    "Name": "志莲净苑",
+    "Address": "钻石山志莲路, 香港, 中国",
+    "District": "钻石山",
+    "RoadInfo": "志莲路",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T427",
+    "行政区": "南区",
+    "Location": [
+      114.242013,
+      22.240299
+    ],
+    "Name": "龙脊",
+    "Address": "石澳郊野公园，香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "石澳郊野公园",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T428",
+    "行政区": "深水埗区",
+    "Location": [
+      114.153819,
+      22.333438
+    ],
+    "Name": "黑暗中对话",
+    "Address": "九龙长沙湾长义街9号, 香港, 中国",
+    "District": "长沙湾",
+    "RoadInfo": "长义街9号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T429",
+    "行政区": "油尖旺区",
+    "Location": [
+      114.177557,
+      22.296121
+    ],
+    "Name": "Sandbox - 沙盒 VR",
+    "Address": "金马伦道图3A-3C号, , 中国",
+    "District": "",
+    "RoadInfo": "金马伦道",
+    "Poi": "图3A-3C号",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T430",
+    "行政区": "油尖旺区",
+    "Location": [
+      114.173839,
+      22.293338
+    ],
+    "Name": "香港旅游发展局",
+    "Address": "九龙尖沙咀天星码头，香港, 中国",
+    "District": "尖沙咀",
+    "RoadInfo": "",
+    "Poi": "天星码头",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T431",
+    "行政区": "U",
+    "Location": [
+      null,
+      null
+    ],
+    "Name": "上窰民俗文物馆",
+    "Address": "西贡北谭涌, 香港, 中国",
+    "District": "西贡",
+    "RoadInfo": "",
+    "Poi": "北谭涌",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T432",
+    "行政区": "离岛区",
+    "Location": [
+      114.021362,
+      22.305926
+    ],
+    "Name": "香港迪士尼乐园",
+    "Address": "大屿山, 香港, 中国",
+    "District": "大屿山",
+    "RoadInfo": "",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T433",
+    "行政区": "中西区",
+    "Location": [
+      114.154341,
+      22.268708
+    ],
+    "Name": "太平山山顶",
+    "Address": "卢吉道1.号, 香港, 中国",
+    "District": "",
+    "RoadInfo": "卢吉道1.号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T434",
+    "行政区": "离岛区",
+    "Location": [
+      114.021362,
+      22.305926
+    ],
+    "Name": "天坛大佛",
+    "Address": "大屿山, 香港, 中国",
+    "District": "大屿山",
+    "RoadInfo": "",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T435",
+    "行政区": "越秀区",
+    "Location": [
+      113.31263,
+      23.140741
+    ],
+    "Name": "Oi Tung Shopping Centre",
+    "Address": "爱荫街18号，香港, 中国",
+    "District": "",
+    "RoadInfo": "爱荫街18号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T436",
+    "行政区": "港口区",
+    "Location": [
+      108.378399,
+      21.648086
+    ],
+    "Name": "Yu Chau Street (bead Street)",
+    "Address": "渔洲街，香港, 中国",
+    "District": "",
+    "RoadInfo": "渔洲街",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T437",
+    "行政区": "中西区",
+    "Location": [
+      114.159314,
+      22.281517
+    ],
+    "Name": "H6 Conet",
+    "Address": "中环皇后大道中99号中心地下，香港, 中国",
+    "District": "中环",
+    "RoadInfo": "皇后大道中99号",
+    "Poi": "中心地下",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T438",
+    "行政区": "中西区",
+    "Location": [
+      114.163269,
+      22.278606
+    ],
+    "Name": "Jps Gallery",
+    "Address": "置地广场2楼218-219号铺，香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "置地广场218-219号铺",
+    "RoomInfo": "2楼"
+  },
+  {
+    "id": "T439",
+    "行政区": "观塘区",
+    "Location": [
+      114.231052,
+      22.308036
+    ],
+    "Name": "E Plaza",
+    "Address": "香港观塘成业街7号",
+    "District": "观塘",
+    "RoadInfo": "成业街7号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T440",
+    "行政区": "中西区",
+    "Location": [
+      114.162952,
+      22.282068
+    ],
+    "Name": "筲箕湾街巿",
+    "Address": "东大街153号, 香港, 中国",
+    "District": "",
+    "RoadInfo": "东大街153号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T441",
+    "行政区": "深水埗区",
+    "Location": [
+      114.169453,
+      22.327886
+    ],
+    "Name": "Fuk Wing Street (toy Street)",
+    "Address": "福荣街，香港, 中国",
+    "District": "",
+    "RoadInfo": "福荣街",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T442",
+    "行政区": "中西区",
+    "Location": [
+      114.16029,
+      22.280459
+    ],
+    "Name": "Pace Gallery Hong Kong",
+    "Address": "皇后大道中80号，香港, 中国",
+    "District": "",
+    "RoadInfo": "皇后大道中80号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T443",
+    "行政区": "龙岗区",
+    "Location": [
+      114.272051,
+      22.732227
+    ],
+    "Name": "Tko Gateway",
+    "Address": "上宁路2号，香港, 中国",
+    "District": "",
+    "RoadInfo": "上宁路2号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T444",
+    "行政区": "沙田区",
+    "Location": [
+      114.231549,
+      22.420327
+    ],
+    "Name": "Chung On Shopping Centre",
+    "Address": "马鞍山西沙路632号，香港, 中国",
+    "District": "马鞍山",
+    "RoadInfo": "西沙路632号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T445",
+    "行政区": "U",
+    "Location": [
+      null,
+      null
+    ],
+    "Name": "Sheung Shui Center Shopping Mall",
+    "Address": "上水志昌路3号，香港, 中国",
+    "District": "上水",
+    "RoadInfo": "志昌路3号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T446",
+    "行政区": "油尖旺区",
+    "Location": [
+      114.175582,
+      22.313019
+    ],
+    "Name": "Ctma Centre (mongkok)",
+    "Address": "西洋菜南街1号，香港, 中国",
+    "District": "",
+    "RoadInfo": "西洋菜南街1号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T447",
+    "行政区": "江宁区",
+    "Location": [
+      118.89929,
+      31.903198
+    ],
+    "Name": "Metro Town Shopping Mall",
+    "Address": "南京金陵路8号，香港, 中国",
+    "District": "",
+    "RoadInfo": "金陵路8号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T448",
+    "行政区": "湾仔区",
+    "Location": [
+      114.178856,
+      22.271854
+    ],
+    "Name": "湾仔街市",
+    "Address": "皇后大道东258号, 香港, 中国",
+    "District": "",
+    "RoadInfo": "皇后大道258号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T449",
+    "行政区": "九龙城区",
+    "Location": [
+      114.193967,
+      22.32664
+    ],
+    "Name": "九龙城街市",
+    "Address": "衙前围道100号, 香港, 中国",
+    "District": "",
+    "RoadInfo": "衙前围道100号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T450",
+    "行政区": "坪山区",
+    "Location": [
+      114.373869,
+      22.705174
+    ],
+    "Name": "Ki Lung Street (sham Shui Po)",
+    "Address": "启隆街，香港, 中国",
+    "District": "",
+    "RoadInfo": "启隆街",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T451",
+    "行政区": "深水埗区",
+    "Location": [
+      114.166013,
+      22.324309
+    ],
+    "Name": "Nam Cheong Street (ribbon Street)",
+    "Address": "南昌街，香港, 中国",
+    "District": "",
+    "RoadInfo": "南昌街",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T452",
+    "行政区": "油尖旺区",
+    "Location": [
+      114.17384,
+      22.293336
+    ],
+    "Name": "Gallery by the Harbour (Harbour City)",
+    "Address": "香港尖沙咀海港城广东道5.号海洋中心207号铺",
+    "District": "尖沙咀",
+    "RoadInfo": "广东道5.号",
+    "Poi": "海港城海洋中心",
+    "RoomInfo": "207号铺"
+  },
+  {
+    "id": "T453",
+    "行政区": "潢川县",
+    "Location": [
+      115.114403,
+      31.933621
+    ],
+    "Name": "Metro City Plaza",
+    "Address": "将军澳仁景路8号，香港, 中国",
+    "District": "将军澳",
+    "RoadInfo": "仁景路8号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T454",
+    "行政区": "油尖旺区",
+    "Location": [
+      114.176268,
+      22.302908
+    ],
+    "Name": "New Mandarin Plaza",
+    "Address": "科学馆路14号，香港, 中国",
+    "District": "",
+    "RoadInfo": "科学馆路14号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T455",
+    "行政区": "U",
+    "Location": [
+      null,
+      null
+    ],
+    "Name": "Sceneway Plaza",
+    "Address": "Sceneway路8号，, 中国",
+    "District": "",
+    "RoadInfo": "ay路8号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T456",
+    "行政区": "中西区",
+    "Location": [
+      114.173528,
+      22.274215
+    ],
+    "Name": "陆海通大厦",
+    "Address": "中环皇后大道31号, 香港, 中国",
+    "District": "中环",
+    "RoadInfo": "皇后大道31号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T457",
+    "行政区": "U",
+    "Location": [
+      null,
+      null
+    ],
+    "Name": "Un Chau Shopping Center",
+    "Address": "银洲街303号，香港, 中国",
+    "District": "",
+    "RoadInfo": "银洲街303号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T458",
+    "行政区": "滨江区",
+    "Location": [
+      120.155408,
+      30.179305
+    ],
+    "Name": "Zwirner Gallery (h Queens)",
+    "Address": "中环皇后大道中80号H皇后大厦5-6楼",
+    "District": "中环",
+    "RoadInfo": "皇后大道中80号",
+    "Poi": "H皇后大厦",
+    "RoomInfo": "5-6楼"
+  },
+  {
+    "id": "T459",
+    "行政区": "深水埗区",
+    "Location": [
+      114.166446,
+      22.329484
+    ],
+    "Name": "Lai Sun Commercial Centre",
+    "Address": "福华街593-595号，香港, 中国",
+    "District": "",
+    "RoadInfo": "福华街593-595号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T460",
+    "行政区": "西贡区",
+    "Location": [
+      114.273724,
+      22.314015
+    ],
+    "Name": "Tko Spot",
+    "Address": "将军澳通明街2号，香港, 中国",
+    "District": "将军澳",
+    "RoadInfo": "通明街2号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T461",
+    "行政区": "双辽市",
+    "Location": [
+      123.517338,
+      43.504619
+    ],
+    "Name": "Papillons Square",
+    "Address": "东春街21号，香港, 中国",
+    "District": "",
+    "RoadInfo": "东春街21号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T462",
+    "行政区": "中西区",
+    "Location": [
+      114.160965,
+      22.278851
+    ],
+    "Name": "世纪广场",
+    "Address": "德己立街1月13日号, 香港, 中国",
+    "District": "",
+    "RoadInfo": "德己立街",
+    "Poi": "1月",
+    "RoomInfo": "13日号"
+  },
+  {
+    "id": "T463",
+    "行政区": "东区",
+    "Location": [
+      114.19918,
+      22.286082
+    ],
+    "Name": "北角城中心",
+    "Address": "北角英皇道250号, 香港, 中国",
+    "District": "北角",
+    "RoadInfo": "英皇道250号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T464",
+    "行政区": "中西区",
+    "Location": [
+      114.161276,
+      22.27955
+    ],
+    "Name": "万邦行",
+    "Address": "皇后大道中33号, 香港, 中国",
+    "District": "",
+    "RoadInfo": "皇后大道中33号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T465",
+    "行政区": "中西区",
+    "Location": [
+      114.163492,
+      22.277817
+    ],
+    "Name": "嘉轩广场",
+    "Address": "中环皇后大道中9号, 香港, 中国",
+    "District": "中环",
+    "RoadInfo": "皇后大道中9号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T466",
+    "行政区": "深水埗区",
+    "Location": [
+      114.162113,
+      22.331029
+    ],
+    "Name": "Lai Kok Shopping Centre",
+    "Address": "长沙湾东京街12号，香港, 中国",
+    "District": "长沙湾",
+    "RoadInfo": "东京街12号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T467",
+    "行政区": "沙田区",
+    "Location": [
+      114.270512,
+      22.413132
+    ],
+    "Name": "Double Cove Place Shopping Arcade",
+    "Address": "乌溪沙双湾西沙路，香港, 中国",
+    "District": "乌溪沙双湾",
+    "RoadInfo": "西沙路",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T468",
+    "行政区": "油尖旺区",
+    "Location": [
+      114.177151,
+      22.298115
+    ],
+    "Name": "Shout",
+    "Address": "Ot308a型尖沙咀海港城海运大厦 L3级层",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "Ot308a型尖沙咀海港城海运大厦 L3级层",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T469",
+    "行政区": "湾仔区",
+    "Location": [
+      114.189628,
+      22.278145
+    ],
+    "Name": "东角",
+    "Address": "香港 铜锣湾东角道24至26号",
+    "District": "",
+    "RoadInfo": "东角道24至26号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T470",
+    "行政区": "中西区",
+    "Location": [
+      114.160294,
+      22.280458
+    ],
+    "Name": "Tang Contemporary (h Queens)",
+    "Address": "中环皇后大道中80号H女王&#39；第10页楼",
+    "District": "",
+    "RoadInfo": "皇后大道中80号",
+    "Poi": "H女王第10页楼",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T471",
+    "行政区": "中西区",
+    "Location": [
+      114.160294,
+      22.280458
+    ],
+    "Name": "Hauser & Wirth (h Queens)",
+    "Address": "中环 皇后大道中80号 H女王&#39；第15-16页楼",
+    "District": "",
+    "RoadInfo": "皇后大道中80号",
+    "Poi": " H女王第15-16页楼",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T472",
+    "行政区": "中西区",
+    "Location": [
+      114.160294,
+      22.280458
+    ],
+    "Name": "Whitestone Gallery (h Queens)",
+    "Address": "中环皇后大道中80号H女王&#39；第7-8节楼",
+    "District": "",
+    "RoadInfo": "皇后大道中80号",
+    "Poi": "H女王第7-8节楼",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T473",
+    "行政区": "中西区",
+    "Location": [
+      114.161995,
+      22.279156
+    ],
+    "Name": "Pearl Lam Galleries",
+    "Address": "毕打街12号毕打大厦6楼，香港, 中国",
+    "District": "",
+    "RoadInfo": "毕打街12号",
+    "Poi": "毕打大厦",
+    "RoomInfo": "6楼"
+  },
+  {
+    "id": "T474",
+    "行政区": "中西区",
+    "Location": [
+      114.147485,
+      22.285744
+    ],
+    "Name": "W.h.y. Gallery",
+    "Address": "香港中环荷里活道54号地下1楼，香港, 中国",
+    "District": "中环",
+    "RoadInfo": "荷里活道54号",
+    "Poi": "",
+    "RoomInfo": "1楼"
+  },
+  {
+    "id": "T475",
+    "行政区": "湾仔区",
+    "Location": [
+      114.178917,
+      22.271983
+    ],
+    "Name": "Odd One Out",
+    "Address": "湾仔圣弗朗西斯街14号地下，香港, 中国",
+    "District": "湾仔",
+    "RoadInfo": "圣弗朗西斯街14号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T476",
+    "行政区": "U",
+    "Location": [
+      null,
+      null
+    ],
+    "Name": "Sagefield Antiques and Collectables",
+    "Address": "墨尔本广场205号铺，香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "墨尔本广场",
+    "RoomInfo": "205号铺"
+  },
+  {
+    "id": "T477",
+    "行政区": "中西区",
+    "Location": [
+      114.157499,
+      22.280719
+    ],
+    "Name": "Le Galerie Paris 1839",
+    "Address": "香港荷李活道74号地下",
+    "District": "",
+    "RoadInfo": "荷李活道74号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T478",
+    "行政区": "油尖旺区",
+    "Location": [
+      114.173839,
+      22.293338
+    ],
+    "Name": "新太阳广场",
+    "Address": "尖沙咀广东道28号, 香港, 中国",
+    "District": "尖沙咀",
+    "RoadInfo": "广东道28号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T479",
+    "行政区": "U",
+    "Location": [
+      null,
+      null
+    ],
+    "Name": "Plaza Ascot Shopping Centre",
+    "Address": "火炭荃景道1号，香港, 中国",
+    "District": "火炭",
+    "RoadInfo": "荃景道1号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T480",
+    "行政区": "中西区",
+    "Location": [
+      114.162952,
+      22.282068
+    ],
+    "Name": "Kowloon Soy Co. Ltd.",
+    "Address": "中环葛拉汉街9号，香港, 中国",
+    "District": "中环",
+    "RoadInfo": "葛拉汉街9号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T481",
+    "行政区": "思茅区",
+    "Location": [
+      100.980628,
+      22.775173
+    ],
+    "Name": "The LOHAS",
+    "Address": "将军澳落下公园道1号，香港, 中国",
+    "District": "将军澳",
+    "RoadInfo": "落下公园道1号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T482",
+    "行政区": "中西区",
+    "Location": [
+      114.158516,
+      22.282569
+    ],
+    "Name": "新纪元广场",
+    "Address": "皇后大道中181号, 香港, 中国",
+    "District": "",
+    "RoadInfo": "皇后大道中181号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T483",
+    "行政区": "中西区",
+    "Location": [
+      114.163721,
+      22.279583
+    ],
+    "Name": "Landmark Chater",
+    "Address": "干诺道中8号，香港, 中国",
+    "District": "",
+    "RoadInfo": "干诺道中8号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T484",
+    "行政区": "观塘区",
+    "Location": [
+      114.239528,
+      22.305593
+    ],
+    "Name": "启田商场",
+    "Address": "启田道50号, 香港, 中国",
+    "District": "",
+    "RoadInfo": "启田道50号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T485",
+    "行政区": "中西区",
+    "Location": [
+      114.173528,
+      22.274215
+    ],
+    "Name": "苏富比艺术廊",
+    "Address": "皇后大道88号, 香港, 中国",
+    "District": "",
+    "RoadInfo": "皇后大道88号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T486",
+    "行政区": "元朗区",
+    "Location": [
+      114.002424,
+      22.459361
+    ],
+    "Name": "T Town",
+    "Address": "香港 天华路30及33号 新界元朗天水围",
+    "District": "",
+    "RoadInfo": "天华路30及33号",
+    "Poi": "天水围",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T487",
+    "行政区": "忠县",
+    "Location": [
+      108.0435,
+      30.2948
+    ],
+    "Name": "WK广场",
+    "Address": "尖沙咀弥敦道36-44岁号重庆大厦地库, 香港, 中国",
+    "District": "尖沙咀",
+    "RoadInfo": "弥敦道36-44岁号",
+    "Poi": "重庆大厦地库",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T488",
+    "行政区": "中西区",
+    "Location": [
+      114.163269,
+      22.278606
+    ],
+    "Name": "哈维·尼克斯百货(中环置地广场店)",
+    "Address": "香港 中环皇后大道中15号置地广场",
+    "District": "中环",
+    "RoadInfo": "皇后大道中15号",
+    "Poi": "置地广场",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T489",
+    "行政区": "离岛区",
+    "Location": [
+      113.943337,
+      22.278045
+    ],
+    "Name": "逸东商场",
+    "Address": "新界东涌逸东街8.号, 香港, 中国",
+    "District": "东涌",
+    "RoadInfo": "逸东街8.号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T490",
+    "行政区": "油尖旺区",
+    "Location": [
+      114.177152,
+      22.320304
+    ],
+    "Name": "旺角先施百货",
+    "Address": "太子道西193号新世纪广场L2-L3(近太子站B2出口), , 中国",
+    "District": "",
+    "RoadInfo": "太子道西193号",
+    "Poi": "新世纪广场L2-L3太子站B2出口",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T491",
+    "行政区": "黄大仙区",
+    "Location": [
+      114.201777,
+      22.330756
+    ],
+    "Name": "Mikiki商场",
+    "Address": "九龙新蒲岗太子道东638号, 香港, 中国",
+    "District": "新蒲岗",
+    "RoadInfo": "太子道东638号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T492",
+    "行政区": "湾仔区",
+    "Location": [
+      114.187849,
+      22.277447
+    ],
+    "Name": "铜锣湾广场",
+    "Address": "香港 铜锣湾轩尼诗道489号",
+    "District": "",
+    "RoadInfo": "轩尼诗道489号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T493",
+    "行政区": "湾仔区",
+    "Location": [
+      114.174541,
+      22.274228
+    ],
+    "Name": "Choco L'ART 工作室",
+    "Address": "旺角皇后大道东119-121中，香港, 中国",
+    "District": "旺角",
+    "RoadInfo": "皇后大道",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T494",
+    "行政区": "油尖旺区",
+    "Location": [
+      114.176268,
+      22.302908
+    ],
+    "Name": "DFS旗下香港T广场尖东店",
+    "Address": "九龙尖沙咀东么地道77号华懋广场, 香港, 中国",
+    "District": "尖沙咀",
+    "RoadInfo": "东么地道77号",
+    "Poi": "华懋广场",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T495",
+    "行政区": "深水埗区",
+    "Location": [
+      114.163452,
+      22.326863
+    ],
+    "Name": "Yen Chow Fabric Market",
+    "Address": "荔枝角道373-551号，香港, 中国",
+    "District": "",
+    "RoadInfo": "荔枝角道373-551号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T496",
+    "行政区": "离岛区",
+    "Location": [
+      113.948471,
+      22.285898
+    ],
+    "Name": "富东广场",
+    "Address": "富东街6.号, 香港, 中国",
+    "District": "",
+    "RoadInfo": "富东街6.号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T497",
+    "行政区": "元朗区",
+    "Location": [
+      114.00965,
+      22.454478
+    ],
+    "Name": "置富嘉湖",
+    "Address": "新界元朗区天水围新市镇天恩路18号, 香港, 中国",
+    "District": "元朗区天水围新市镇",
+    "RoadInfo": "天恩路18号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T498",
+    "行政区": "中西区",
+    "Location": [
+      114.157898,
+      22.283689
+    ],
+    "Name": "永安百货(上环总)",
+    "Address": "上环德辅道中211号永安中心, 香港, 中国",
+    "District": "上环",
+    "RoadInfo": "德辅道中211号",
+    "Poi": "永安中心",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T499",
+    "行政区": "离岛区",
+    "Location": [
+      114.044359,
+      22.303316
+    ],
+    "Name": "西贡海滨乐园购物天地",
+    "Address": "西贡海滨长廊, 香港, 中国",
+    "District": "西贡",
+    "RoadInfo": "",
+    "Poi": "海滨长廊",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T500",
+    "行政区": "东区",
+    "Location": [
+      114.204818,
+      22.2898
+    ],
+    "Name": "Harbour North",
+    "Address": "香港北角北角村里1.号",
+    "District": "北角北角村里",
+    "RoadInfo": "",
+    "Poi": "",
+    "RoomInfo": "1.号"
+  },
+  {
+    "id": "T501",
+    "行政区": "南区",
+    "Location": [
+      114.154922,
+      22.245517
+    ],
+    "Name": "仔鱼市场",
+    "Address": "香港仔石排湾道102号, 香港, 中国",
+    "District": "",
+    "RoadInfo": "石排湾道102号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T502",
+    "行政区": "U",
+    "Location": [
+      113.660594,
+      22.935797
+    ],
+    "Name": "元朗千色匯",
+    "Address": "教育路1.号, 香港, 中国",
+    "District": "",
+    "RoadInfo": "教育路1.号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T503",
+    "行政区": "油尖旺区",
+    "Location": [
+      114.173839,
+      22.293338
+    ],
+    "Name": "星光城",
+    "Address": "九龙尖沙咀梳士巴利道3.号, 香港, 中国",
+    "District": "尖沙咀",
+    "RoadInfo": "梳士巴利道3.号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T504",
+    "行政区": "U",
+    "Location": [
+      113.800564,
+      23.03418
+    ],
+    "Name": "Marks and Spencer",
+    "Address": "沙田中心街18号新城广场3期3楼A331号铺，, 中国",
+    "District": "沙田",
+    "RoadInfo": "中心街18号",
+    "Poi": "新城广场3期A331号铺",
+    "RoomInfo": "3楼"
+  },
+  {
+    "id": "T505",
+    "行政区": "观塘区",
+    "Location": [
+      114.230926,
+      22.308427
+    ],
+    "Name": "观塘广场",
+    "Address": "观塘开源道68号, 香港, 中国",
+    "District": "观塘",
+    "RoadInfo": "开源道68号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T506",
+    "行政区": "油尖旺区",
+    "Location": [
+      114.173839,
+      22.293338
+    ],
+    "Name": "DFS旗下香港T广场广东道店",
+    "Address": "尖沙咀广东道28号, 香港, 中国",
+    "District": "尖沙咀",
+    "RoadInfo": "广东道28号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T507",
+    "行政区": "油尖旺区",
+    "Location": [
+      114.174387,
+      22.314893
+    ],
+    "Name": "雅兰中心",
+    "Address": "旺角弥敦道625和639号, 香港, 中国",
+    "District": "旺角",
+    "RoadInfo": "弥敦道625和639号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T508",
+    "行政区": "荃湾区",
+    "Location": [
+      114.122791,
+      22.367922
+    ],
+    "Name": "荃灣千色匯I",
+    "Address": "荃湾众安街68号, 香港, 中国",
+    "District": "荃湾",
+    "RoadInfo": "众安街68号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T509",
+    "行政区": "中西区",
+    "Location": [
+      114.163724,
+      22.278673
+    ],
+    "Name": "置地历山",
+    "Address": "中环遮打道16至20号, 香港, 中国",
+    "District": "中环",
+    "RoadInfo": "遮打道16至20号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T510",
+    "行政区": "黄大仙区",
+    "Location": [
+      114.19726,
+      22.339238
+    ],
+    "Name": "黃大仙中心",
+    "Address": "竹园龙翔道136号黃大仙中心, 香港, 中国",
+    "District": "竹园",
+    "RoadInfo": "龙翔道136号",
+    "Poi": "黃大仙中心",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T511",
+    "行政区": "中西区",
+    "Location": [
+      114.173528,
+      22.274215
+    ],
+    "Name": "中心市场",
+    "Address": "香港 皇后大道和德辅道交界处",
+    "District": "",
+    "RoadInfo": "皇后大道德辅道",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T512",
+    "行政区": "油尖旺区",
+    "Location": [
+      114.181892,
+      22.293571
+    ],
+    "Name": "永安百货(尖东)",
+    "Address": "尖沙咀东部么地道62号永安广场, 香港, 中国",
+    "District": "尖沙咀东部",
+    "RoadInfo": "么地道62号",
+    "Poi": "永安广场",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T513",
+    "行政区": "中西区",
+    "Location": [
+      114.157609,
+      22.285009
+    ],
+    "Name": "信德中心商场",
+    "Address": "上环干诺道中168至200号, 香港, 中国",
+    "District": "上环",
+    "RoadInfo": "干诺道168至200号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T514",
+    "行政区": "湾仔区",
+    "Location": [
+      114.189012,
+      22.278933
+    ],
+    "Name": "世贸中心(告打士道)",
+    "Address": "铜锣湾告士打道280号(近怡东酒店), 香港, 中国",
+    "District": "",
+    "RoadInfo": "告士打道280号",
+    "Poi": "怡东酒店",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T515",
+    "行政区": "东区",
+    "Location": [
+      114.197213,
+      22.28641
+    ],
+    "Name": "油街实现",
+    "Address": "油街12号, 香港, 中国",
+    "District": "",
+    "RoadInfo": "市油街12号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T516",
+    "行政区": "西贡区",
+    "Location": [
+      114.270649,
+      22.312941
+    ],
+    "Name": "东港城",
+    "Address": "重华路8.号, 香港, 中国",
+    "District": "",
+    "RoadInfo": "重华路8.号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T517",
+    "行政区": "湾仔区",
+    "Location": [
+      114.188107,
+      22.275456
+    ],
+    "Name": "利舞台",
+    "Address": "香港铜锣湾, 铜锣湾波斯富街99号",
+    "District": "",
+    "RoadInfo": "波斯富街99号",
+    "Poi": "香港铜锣湾",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T518",
+    "行政区": "中西区",
+    "Location": [
+      114.154948,
+      22.283356
+    ],
+    "Name": "上环街市",
+    "Address": "上环皇后大道中345号上环市政大厦, 香港, 中国",
+    "District": "上环",
+    "RoadInfo": "皇后大道中345号",
+    "Poi": "上环市政大厦",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T519",
+    "行政区": "番禺区",
+    "Location": [
+      113.367022,
+      22.950928
+    ],
+    "Name": "鸟市",
+    "Address": "康乐街, 香港, 中国",
+    "District": "",
+    "RoadInfo": "康乐街",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T520",
+    "行政区": "中西区",
+    "Location": [
+      114.164005,
+      22.278534
+    ],
+    "Name": "置地太子",
+    "Address": "中环遮打道10号, 香港, 中国",
+    "District": "中环",
+    "RoadInfo": "遮打道10号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T521",
+    "行政区": "黄大仙区",
+    "Location": [
+      114.193276,
+      22.335796
+    ],
+    "Name": "乐富广场",
+    "Address": "九龙东黄大仙乐富联合道198号, 香港, 中国",
+    "District": "黄大仙",
+    "RoadInfo": "乐富联合道198号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T522",
+    "行政区": "东区",
+    "Location": [
+      114.244554,
+      22.260477
+    ],
+    "Name": "柴湾街市",
+    "Address": "柴湾道338号, 香港, 中国",
+    "District": "",
+    "RoadInfo": "柴湾道338号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T523",
+    "行政区": "深水埗区",
+    "Location": [
+      114.154171,
+      22.330133
+    ],
+    "Name": "永旺百货(荔枝角店)",
+    "Address": "深盛路8.号, 香港, 中国",
+    "District": "",
+    "RoadInfo": "深盛路8.号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T524",
+    "行政区": "油尖旺区",
+    "Location": [
+      114.176268,
+      22.302908
+    ],
+    "Name": "永安百货(佐敦)",
+    "Address": "弥敦道 345号, 香港, 中国",
+    "District": "",
+    "RoadInfo": "弥敦道 345号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T525",
+    "行政区": "油尖旺区",
+    "Location": [
+      114.176268,
+      22.302908
+    ],
+    "Name": "雀鸟花园",
+    "Address": "园圃街雀鸟花园, 香港, 中国",
+    "District": "",
+    "RoadInfo": "园圃街",
+    "Poi": "雀鸟花园",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T526",
+    "行政区": "中西区",
+    "Location": [
+      114.162672,
+      22.278238
+    ],
+    "Name": "置地广场 (香港)",
+    "Address": "中环皇后大道中15号, 香港, 中国",
+    "District": "中环",
+    "RoadInfo": "皇后大道中15号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T527",
+    "行政区": "离岛区",
+    "Location": [
+      113.94586,
+      22.286486
+    ],
+    "Name": "东荟城名店仓",
+    "Address": "东涌达东路20号, 香港, 中国",
+    "District": "东涌",
+    "RoadInfo": "达东路20号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T528",
+    "行政区": "U",
+    "Location": [
+      null,
+      null
+    ],
+    "Name": "鲤鱼门鱼市",
+    "Address": "观塘区, 香港, 中国",
+    "District": "观塘区",
+    "RoadInfo": "",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T529",
+    "行政区": "大埔区",
+    "Location": [
+      114.172186,
+      22.443622
+    ],
+    "Name": "大埔墟市场",
+    "Address": "乡事会街, 香港, 中国",
+    "District": "",
+    "RoadInfo": "乡事会街",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T530",
+    "行政区": "油尖旺区",
+    "Location": [
+      114.176268,
+      22.302908
+    ],
+    "Name": "女人街",
+    "Address": "通菜街, 香港, 中国",
+    "District": "",
+    "RoadInfo": "通菜街",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T531",
+    "行政区": "油尖旺区",
+    "Location": [
+      114.173839,
+      22.293338
+    ],
+    "Name": "The One 商城",
+    "Address": "弥敦道100号, 香港, 中国",
+    "District": "",
+    "RoadInfo": "弥敦道100号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T532",
+    "行政区": "油尖旺区",
+    "Location": [
+      114.173839,
+      22.293338
+    ],
+    "Name": "iSQUARE国际广场购物中心",
+    "Address": "弥敦道63号, 香港, 中国",
+    "District": "",
+    "RoadInfo": "弥敦道63号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T533",
+    "行政区": "元朗区",
+    "Location": [
+      114.040241,
+      22.442317
+    ],
+    "Name": "Yoho Mall 形点",
+    "Address": "朗日路8.号, 香港, 中国",
+    "District": "",
+    "RoadInfo": "朗日路8.号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T534",
+    "行政区": "油尖旺区",
+    "Location": [
+      114.176268,
+      22.302908
+    ],
+    "Name": "香港波鞋街",
+    "Address": "九龙油尖旺区亚皆老街, 香港, 中国",
+    "District": "油尖旺区",
+    "RoadInfo": "亚皆老街",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T535",
+    "行政区": "油尖旺区",
+    "Location": [
+      114.176268,
+      22.302908
+    ],
+    "Name": "新世纪广场",
+    "Address": "旺角太子道西193号, 香港, 中国",
+    "District": "旺角",
+    "RoadInfo": "太子道西193号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T536",
+    "行政区": "油尖旺区",
+    "Location": [
+      114.176268,
+      22.302908
+    ],
+    "Name": "花园街市场",
+    "Address": "花园街, 香港, 中国",
+    "District": "",
+    "RoadInfo": "花园街",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T537",
+    "行政区": "深水埗区",
+    "Location": [
+      114.167449,
+      22.329116
+    ],
+    "Name": "黄金电脑商场",
+    "Address": "九龙深水埗福华街146-152年号, 香港, 中国",
+    "District": "",
+    "RoadInfo": "福华街146-152年号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T538",
+    "行政区": "观塘区",
+    "Location": [
+      114.224335,
+      22.311905
+    ],
+    "Name": "Apm",
+    "Address": "观塘道418号创纪之城五期, 香港, 中国",
+    "District": "",
+    "RoadInfo": "观塘道418号",
+    "Poi": "创纪之城五期",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T539",
+    "行政区": "南区",
+    "Location": [
+      114.218713,
+      22.219792
+    ],
+    "Name": "赤柱市集",
+    "Address": "赤柱滩道, 香港, 中国",
+    "District": "",
+    "RoadInfo": "赤柱滩道",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T540",
+    "行政区": "中西区",
+    "Location": [
+      114.162952,
+      22.282068
+    ],
+    "Name": "荷李活道",
+    "Address": "中环及上环，香港, 中国",
+    "District": "中环",
+    "RoadInfo": "",
+    "Poi": "上环",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T541",
+    "行政区": "油尖旺区",
+    "Location": [
+      114.173599,
+      22.315377
+    ],
+    "Name": "香港朗豪坊",
+    "Address": "九龙油尖旺区亚皆老街8.号, 香港, 中国",
+    "District": "油尖旺区",
+    "RoadInfo": "亚皆老街8.号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T542",
+    "行政区": "中西区",
+    "Location": [
+      114.164292,
+      22.27879
+    ],
+    "Name": "太古广场",
+    "Address": "香港岛中环区金钟道88号, 香港, 中国",
+    "District": "中环区",
+    "RoadInfo": "金钟道88号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T543",
+    "行政区": "油尖旺区",
+    "Location": [
+      114.176268,
+      22.302908
+    ],
+    "Name": "海港城",
+    "Address": "九龙尖沙咀广东道, 香港, 中国",
+    "District": "尖沙咀",
+    "RoadInfo": "广东道",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T544",
+    "行政区": "中西区",
+    "Location": [
+      114.162952,
+      22.282068
+    ],
+    "Name": "赤柱",
+    "Address": "香港岛南区, 香港, 中国",
+    "District": "南区",
+    "RoadInfo": "",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T545",
+    "行政区": "U",
+    "Location": [
+      114.163825,
+      22.276284
+    ],
+    "Name": "Memory Tours (Licensed Agent)",
+    "Address": "香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T546",
+    "行政区": "湾仔区",
+    "Location": [
+      114.174541,
+      22.274228
+    ],
+    "Name": "Old Wanchai Market Building",
+    "Address": "皇后大道东264号，香港, 中国",
+    "District": "",
+    "RoadInfo": "皇后大道264号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T547",
+    "行政区": "葵青区",
+    "Location": [
+      114.13922,
+      22.367764
+    ],
+    "Name": "Aberdeen Street",
+    "Address": "中心的香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "中心的香港",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T548",
+    "行政区": "深水埗区",
+    "Location": [
+      114.15182,
+      22.331542
+    ],
+    "Name": "M+ Cinema",
+    "Address": "西九龙文化区，香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "西九龙文化区",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T549",
+    "行政区": "U",
+    "Location": [
+      114.163825,
+      22.276284
+    ],
+    "Name": "Stone Pillars",
+    "Address": "香港动植物园，香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "香港动植物园",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T550",
+    "行政区": "临平区",
+    "Location": [
+      120.270564,
+      30.422054
+    ],
+    "Name": "Chinese Ymca Of Hong Kong",
+    "Address": "上环桥街51号，香港, 中国",
+    "District": "",
+    "RoadInfo": "上环桥街51号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T551",
+    "行政区": "油尖旺区",
+    "Location": [
+      114.176268,
+      22.302908
+    ],
+    "Name": "旧油麻地警署",
+    "Address": "广东道627号, 香港, 中国",
+    "District": "",
+    "RoadInfo": "广东道627号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T552",
+    "行政区": "大观区",
+    "Location": [
+      117.049118,
+      30.518364
+    ],
+    "Name": "Fish Tail Rock",
+    "Address": "海深公园，香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "海深公园",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T553",
+    "行政区": "晋安区",
+    "Location": [
+      119.32308,
+      26.10502
+    ],
+    "Name": "So Lau Yuen",
+    "Address": "金田水头村25号，香港, 中国",
+    "District": "金田水头村",
+    "RoadInfo": "",
+    "Poi": "",
+    "RoomInfo": "25号"
+  },
+  {
+    "id": "T554",
+    "行政区": "大埔区",
+    "Location": [
+      114.18305,
+      22.44717
+    ],
+    "Name": "Spiral Lookout Tower",
+    "Address": "大埔海滨公园，香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "大埔海滨公园",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T555",
+    "行政区": "U",
+    "Location": [
+      null,
+      null
+    ],
+    "Name": "The Parsee Pavilion",
+    "Address": "奥尔巴尼路，香港, 中国",
+    "District": "",
+    "RoadInfo": "奥尔巴尼路",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T556",
+    "行政区": "U",
+    "Location": [
+      null,
+      null
+    ],
+    "Name": "Chou Wong Yi Kung Study Hall",
+    "Address": "锦田，香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "锦田",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T557",
+    "行政区": "北区",
+    "Location": [
+      114.131248,
+      22.504162
+    ],
+    "Name": "Sheung Shui Wai",
+    "Address": "上水围，香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "上水围",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T558",
+    "行政区": "沙田区",
+    "Location": [
+      114.212073,
+      22.400046
+    ],
+    "Name": "North District Park",
+    "Address": "上水赛马会道，香港, 中国",
+    "District": "上水",
+    "RoadInfo": "赛马会道",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T559",
+    "行政区": "葵青区",
+    "Location": [
+      114.098942,
+      22.339127
+    ],
+    "Name": "Laguna Park",
+    "Address": "西草湾，香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "西草湾",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T560",
+    "行政区": "西贡区",
+    "Location": [
+      114.291885,
+      22.284075
+    ],
+    "Name": "银线湾",
+    "Address": "清水灣銀綫灣泳灘, 香港, 中国",
+    "District": "清水灣",
+    "RoadInfo": "",
+    "Poi": "銀綫灣泳灘",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T561",
+    "行政区": "观塘区",
+    "Location": [
+      114.235133,
+      22.307001
+    ],
+    "Name": "Lei Yue Mun Lighthouse",
+    "Address": "鲤鱼门，香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "鲤鱼门",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T562",
+    "行政区": "河南蒙古族自治县",
+    "Location": [
+      101.605776,
+      34.732992
+    ],
+    "Name": "Sung Kit Street (hung Hom)",
+    "Address": "宋基特街，香港, 中国",
+    "District": "",
+    "RoadInfo": "宋基特街",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T563",
+    "行政区": "U",
+    "Location": [
+      114.163825,
+      22.276284
+    ],
+    "Name": "Anonymous World War I Soldier Statue",
+    "Address": "香港中环公园，香港, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "中环公园",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T564",
+    "行政区": "U",
+    "Location": [
+      null,
+      null
+    ],
+    "Name": "Sam Tai Tsz And Pak Tai Temple",
+    "Address": "余州街196-198号，香港, 中国",
+    "District": "",
+    "RoadInfo": "余州街196-198号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T565",
+    "行政区": "U",
+    "Location": [
+      null,
+      null
+    ],
+    "Name": "Sun Yat Sen Historical Trail",
+    "Address": "薄咸道94号，香港, 中国",
+    "District": "",
+    "RoadInfo": "薄咸道94号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T566",
+    "行政区": "乌审旗",
+    "Location": [
+      108.841875,
+      38.597083
+    ],
+    "Name": "Wartime Stoves Above Quarry Bay",
+    "Address": "鱼涌林荫道，香港, 中国",
+    "District": "鱼涌",
+    "RoadInfo": "林荫道",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T567",
+    "行政区": "U",
+    "Location": [
+      113.361866,
+      22.519241
+    ],
+    "Name": "Relics In Tung Chung",
+    "Address": "东涌，香港, 中国",
+    "District": "东涌",
+    "RoadInfo": "",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T568",
+    "行政区": "U",
+    "Location": [
+      null,
+      null
+    ],
+    "Name": "Shophouse At 170 Yee Kuk Street",
+    "Address": "宜局街170号，香港, 中国",
+    "District": "",
+    "RoadInfo": "宜局街170号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T569",
+    "行政区": "屯门区",
+    "Location": [
+      113.96978,
+      22.381605
+    ],
+    "Name": "Butterfly Beach Park",
+    "Address": "屯门龙门路，香港, 中国",
+    "District": "屯门",
+    "RoadInfo": "龙门路",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T570",
+    "行政区": "油尖旺区",
+    "Location": [
+      114.167509,
+      22.316862
+    ],
+    "Name": "New Kowloon Plaza",
+    "Address": "大角咀道38号，香港, 中国",
+    "District": "",
+    "RoadInfo": "大角咀道38号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T571",
+    "行政区": "北区",
+    "Location": [
+      114.130738,
+      22.498889
+    ],
+    "Name": "彩园商场",
+    "Address": "彩园路8.号, 香港, 中国",
+    "District": "",
+    "RoadInfo": "彩园路8.号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T572",
+    "行政区": "屯门区",
+    "Location": [
+      113.97994,
+      22.391931
+    ],
+    "Name": "爱定商场",
+    "Address": "新界屯门乡事会路2A中，, 中国",
+    "District": "屯门",
+    "RoadInfo": "乡事会路",
+    "Poi": "2A中",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T573",
+    "行政区": "油尖旺区",
+    "Location": [
+      114.168974,
+      22.320613
+    ],
+    "Name": "Tung Chau Street Jade Market",
+    "Address": "通州街，香港, 中国",
+    "District": "",
+    "RoadInfo": "通州街",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T574",
+    "行政区": "东区",
+    "Location": [
+      114.203794,
+      22.287854
+    ],
+    "Name": "康威商场",
+    "Address": "英皇道406至408号, 香港, 中国",
+    "District": "",
+    "RoadInfo": "英皇道406至408号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T575",
+    "行政区": "中西区",
+    "Location": [
+      114.157123,
+      22.286039
+    ],
+    "Name": "The Lane",
+    "Address": "坑口培盛路15号，香港, 中国",
+    "District": "坑口",
+    "RoadInfo": "培盛路15号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T576",
+    "行政区": "油尖旺区",
+    "Location": [
+      114.176268,
+      22.302908
+    ],
+    "Name": "Square Mile",
+    "Address": "大角咀励德街11号，香港, 中国",
+    "District": "大角咀",
+    "RoadInfo": "励德街11号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T577",
+    "行政区": "武夷山市",
+    "Location": [
+      117.97891,
+      27.646752
+    ],
+    "Name": "Tsz Wan Shan Shopping Centre",
+    "Address": "慈溪玉华街23号，香港, 中国",
+    "District": "慈溪",
+    "RoadInfo": "玉华街23号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T578",
+    "行政区": "U",
+    "Location": [
+      null,
+      null
+    ],
+    "Name": "E-max",
+    "Address": "Trademart Drive 1号，, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "Trademart Drive 1号",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T579",
+    "行政区": "中西区",
+    "Location": [
+      114.162045,
+      22.27778
+    ],
+    "Name": "新世界大厦",
+    "Address": "香港皇后大道中16至18号, 香港, 中国",
+    "District": "",
+    "RoadInfo": "皇后大道16至18号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T580",
+    "行政区": "中西区",
+    "Location": [
+      114.161166,
+      22.279278
+    ],
+    "Name": "万年大厦商场",
+    "Address": "中环皇后大道中48号, 香港, 中国",
+    "District": "中环",
+    "RoadInfo": "皇后大道中48号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T581",
+    "行政区": "湾仔区",
+    "Location": [
+      114.18245,
+      22.274683
+    ],
+    "Name": "Oriental 188 Shopping Centre",
+    "Address": "湾仔道188号，香港, 中国",
+    "District": "",
+    "RoadInfo": "湾仔道188号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T582",
+    "行政区": "葵青区",
+    "Location": [
+      114.137255,
+      22.359571
+    ],
+    "Name": "活＠KCC",
+    "Address": "葵涌葵昌路72至76号, 香港, 中国",
+    "District": "葵涌",
+    "RoadInfo": "葵昌路72至76号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T583",
+    "行政区": "中西区",
+    "Location": [
+      114.159011,
+      22.283716
+    ],
+    "Name": "先施(中环)",
+    "Address": "中環德輔道中189號, 香港, 中国",
+    "District": "中環",
+    "RoadInfo": "德輔道中189號",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T584",
+    "行政区": "屯门区",
+    "Location": [
+      113.982814,
+      22.390204
+    ],
+    "Name": "Dondondonki Plaza",
+    "Address": "屯门市广场一期UG大厦UG001-UG023号铺，, 中国",
+    "District": "",
+    "RoadInfo": "",
+    "Poi": "屯门市广场一期UG大厦UG001-UG023号铺",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T585",
+    "行政区": "中西区",
+    "Location": [
+      114.140591,
+      22.283924
+    ],
+    "Name": "Infinitus Plaza Shopping Arcade",
+    "Address": "德辅道199号，香港, 中国",
+    "District": "",
+    "RoadInfo": "德辅道199号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T586",
+    "行政区": "U",
+    "Location": [
+      null,
+      null
+    ],
+    "Name": "Shek Mun Shopping Centre",
+    "Address": "石门村，香港, 中国",
+    "District": "石门村",
+    "RoadInfo": "",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T587",
+    "行政区": "中西区",
+    "Location": [
+      114.161995,
+      22.279156
+    ],
+    "Name": "Simon Lee Gallery",
+    "Address": "毕打街12号毕打大厦3楼，香港, 中国",
+    "District": "",
+    "RoadInfo": "毕打街12号",
+    "Poi": "毕打大厦",
+    "RoomInfo": "3楼"
+  },
+  {
+    "id": "T588",
+    "行政区": "西贡区",
+    "Location": [
+      114.266707,
+      22.306393
+    ],
+    "Name": "Tsuen Kwun O Plaza",
+    "Address": "将军澳唐德街1号，香港, 中国",
+    "District": "将军澳",
+    "RoadInfo": "唐德街1号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T589",
+    "行政区": "观塘区",
+    "Location": [
+      114.233081,
+      22.303942
+    ],
+    "Name": "Laguna Plaza",
+    "Address": "蓝田茶果岭道88号，香港, 中国",
+    "District": "蓝田",
+    "RoadInfo": "茶果岭道88号",
+    "Poi": "",
+    "RoomInfo": ""
+  },
+  {
+    "id": "T590",
+    "行政区": "东区",
+    "Location": [
+      114.253517,
+      22.25989
+    ],
+    "Name": "Siu Sai Wan Plaza",
+    "Address": "小西湾道10号，香港, 中国",
+    "District": "",
+    "RoadInfo": "小西湾道10号",
+    "Poi": "",
+    "RoomInfo": ""
+  }
+]
