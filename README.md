@@ -1,4 +1,19 @@
-# 实体匹配/聚合 （景点）
+# Entity Matching For Tourism Dataset
+
+## 1 Description
+
+Imagine searching for hotels from two tourism websites. There should be many same hotels but with slightly different information in names or addresses. So, if we are conducting a big data processing task in the field of tourism, like building a knowledge graph, we are likely to face the problem that entities from different data sources are either same or different. When we need to integrate these data, it is important to find the same entities and remove duplicates. The figure below shows the main function of this entity matching model.
+
+![](Images/purpose.png)
+
+The model is a Xgboost-based binary classification model. When encoded vectors of two entities come into the model, it will give the prediction label *same / different*.
+
+## 2 Dataset
+
+Data in this project are from three sources - Ctrip, Tripadvisor, Mafengwo. And we take attractions in Hong Kong as a example. For each entity (attraction), we keep attributes of name, address, location (latitude and longitude), and district.
+
+
+
 
 任务的数据处理分为**训练**和**应用**两步，分别对应“train_”和“user_”四个文件夹。当两组数据都处理完毕时，通过main.ipynb进行模型训练和预测。
 
