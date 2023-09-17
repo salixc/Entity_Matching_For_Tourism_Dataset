@@ -4,32 +4,46 @@
 
 Imagine searching for hotels from two tourism websites. There should be many same hotels but with slightly different information in names or addresses. So, if we are conducting a big data processing task in the field of tourism, like building a knowledge graph, we are likely to face the problem that entities from different data sources are either same or different. When we need to integrate these data, it is important to find the same entities and remove duplicates. The figure below shows the main function of this entity matching model.
 
-![](Images/purpose.png)
+<!-- ![](Images/purpose.png) -->
+ <div  align="center">  <img src="Images/purpose.png" width = "50%" height = "50%" /> </div>
 
 The model is a Xgboost-based binary classification model. When encoded vectors of two entities come into the model, it will give the prediction label *same / different*.
 
-## 2 Dataset
-
-Data in this project are from three sources - Ctrip, Tripadvisor, Mafengwo. And we take attractions in Hong Kong as a example. For each entity (attraction), we keep attributes of name, address, location (latitude and longitude), and district.
 
 
+## 2 Dataset and Features
+
+Data in this project are from three sources - Ctrip, Tripadvisor, Mafengwo. And we take attractions in Hong Kong as a example. For each entity (attraction), we keep attributes of **name**, **address**, **location** (latitude and longitude), and **District**. The addresses will be segmented by a BERT-based model and divided into attributes **district**, **RoadInfo**, **RoomInfo**, and **Poi** (Details in address segment will not be displayed in this project). We have to mention that the attributes **District** and **district** are different. The former one comes from the tourism website and indicates the administrative district, whereas the latter one is a part of the address and includes administrative district / village / town / block. Moreover, the former one will only be used in entity pairing and the latter one will be one of the feature vectors.
 
 
-任务的数据处理分为**训练**和**应用**两步，分别对应“train_”和“user_”四个文件夹。当两组数据都处理完毕时，通过main.ipynb进行模型训练和预测。
 
-（总体架构见[https://www.yuque.com/gggyyy/cs4yt9/gn9axe7un83qyno2]）
+## 3 Overall Process
 
-## 首先看训练数据处理过程
+The overall process will include 3 main stages - making training data / pairing application data, calculating feature vectors, model training / prediction, which is shown as below:
 
-1. 初始数据目录（train_data）下只有两个数据源文件
-2. 通过外部的分词模型预测，得到两个源数据的地址分词结果，以“xxx_addr_result.json”命名
-3. 运行代码目录（train_src）下的preprocess.ipynb。处理分词结果，精简源数据的信息，合并两者，得到两个加工后的带地址数据，以“xxx_addr.json”命名
-4. 运行matching.ipynb。通过多种方式将两个源的数据两两配对，生成positive和negative正负数据文件
-    1. 预处理出两个源数据中所有字符串的词向量
-    2. 生成Name最相似的200对实体 -> 手动对其打标（需要在temp文件夹里找到对应的csv，添加一列label手动打标1/0（表示匹配/不匹配）） -> 提取pos和neg数据
-    3. 对Distance做相同操作
-    4. 对RoadInfo做相同操作
-    5. 对RoomInfo做相同操作
+ <div  align="center">  <img src="Images/process.png" width = "50%" height = "50%" /> </div>
+
+ Specifically, there is a strategy in entity paring to reduce the calculaation complexity. Clearly, entities in different districts must not be matched as a same one. In other words, we only need to pair entities from same districts. This strategy is shown as below:
+
+  <div  align="center">  <img src="Images/pairing.png" width = "60%" height = "60%" /> </div>
+
+
+
+## 4 Data Preprocessing
+
+The preprocess of data is divided into 2 stages - making **training** data / pairing **application** data, as mentioned before (The vector calculation part is also included here). They correspond to the four folders 'train_xxx' and 'user_xxx' respectively. When both sets of data are processed, the model can be trained and predicted using **main.ipynb**.
+
+### 4.1 training data
+
+1. There are only two source data files in the initial data directory **'train_data'**
+2. Utilising external address segment models, we get two segment results in address, namely **'xxx_addr_result.json'**
+3. Run **'preprocess.ipynb'** in **'train_src'** to process the address segment results, simplify the information from source data, and combine them. So we get two processed data with segmented address, namely **'xxx_addr.json'**
+4. Run **'matching.ipynb'** to pair the entities from 2 different sources by some strategies. Then we get positive and negative training data files.
+    1. Calculate all embedding vectors for each strings in 2 source data in advance.
+    2. Generate 200 pairs of entities with the most similar **Name** -> Manually label them (you need to find the corresponding .csv in the **temp** folder and add a column of 'label' to manually mark 1/0 (indicating match/mismatch)) -> Extract positive and negative data
+    3. Same operation for **Distance**
+    4. Same operation for **RoadInfo**
+    5. Same operation for **RoomInfo**
 5. 运行embedding.ipynb。对两个数据进行相似度计算，转换为DataFrame
 
 ## 其次是应用数据处理过程
