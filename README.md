@@ -65,4 +65,26 @@ As the line chart shown below, the metrics **Accuracy**, **Precision**, and **Re
   <div  align="center">  <img src="Images/line.png" width = "100%" height = "100%" /> </div>
 
 
-  
+
+## 6 Expriment Results
+
+With regard to the training data, the manually labelling details are shown below:
+
+|          | Name | Distance | RoadInfo | RoomInfo | Sum |
+| -------- | ---- | -------- | -------- | -------- | --- |
+| positive | 138  | 4        | 17       | 1        | 160 |
+| negative | 62   | 196      | 83       | 19       | 360 |
+| Sum      | 200  | 200      | 100      | 20       | 400 |
+
+After training, the prediction accuracy for test set is 0.9385 and the feature importance is shown below:
+
+| Location | Name  | Address | District | RoadInfo | Poi   | RoomInfo |
+| -------- | ----- | ------- | -------- | -------- | ----- | -------- |
+| 0.251    | 0.599 | 0.060   | 0.0535   | 0.055    | 0.000 | 0.000    |
+
+
+
+## 7 Future Work
+1. There is only one method to calculate the string similarity. It can be extended by many other methods to increase the number of features for the model to decide during training.
+2. We only segment the address information. The attraction name also could be segmented for better performance.
+3. In the process of training data, it needs manually labelling a lot of data, especially for the source data with thousands of entities. It is better to reduce the manual tasks there.
