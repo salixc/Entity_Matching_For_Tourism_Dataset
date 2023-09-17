@@ -33,7 +33,7 @@ The overall process will include 3 main stages - making training data / pairing 
 
 The preprocess of data is divided into 2 stages - making **training** data / pairing **application** data, as mentioned before (The vector calculation part is also included here). They correspond to the four folders 'train_xxx' and 'user_xxx' respectively. When both sets of data are processed, the model can be trained and predicted using **main.ipynb**.
 
-### 4.1 training data
+### 4.1 Training data
 
 1. There are only two source data files in the initial data directory **'train_data'**
 2. Utilising external address segment models, we get two segment results in address, namely **'xxx_addr_result.json'**
@@ -44,16 +44,25 @@ The preprocess of data is divided into 2 stages - making **training** data / pai
     3. Same operation for **Distance**
     4. Same operation for **RoadInfo**
     5. Same operation for **RoomInfo**
-5. 运行embedding.ipynb。对两个数据进行相似度计算，转换为DataFrame
+5. Run **'embedding.ipynb'** to calculate the similarity of strings and convert to Dataframe.
 
-## 其次是应用数据处理过程
+### 4.2 Application data
 
-1. 初始数据目录（user_data）下只有两个数据源文件
-2. 通过外部的分词模型预测，得到两个源数据的地址分词结果，以“xxx_addr_result.json”命名
-3. 运行代码目录（user_src）下的preprocess.ipynb。处理分词结果，精简源数据的信息，合并两者，得到两个加工后的带地址数据，以“xxx_addr.json”命名
-4. 运行match&embedding.ipynb。将两个源的数据按照18个区进行同区两两匹配，然后对于每对数据进行词向量计算（使用应用数据预处理好的），得到“data.csv”文件
+1. There are only two source data files in the initial data directory **'user_data'**
+2. Utilising external address segment models, we get two segment results in address, namely **'xxx_addr_result.json'**
+3. Run **'preprocess.ipynb'** in **'user_src'** to process the address segment results, simplify the information from source data, and combine them. So we get two processed data with segmented address, namely **'xxx_addr.json'**
+4. Run **'match&embedding.ipynb'** to pair the entities by 18 districts and calculate the vectors. We get **'data.csv'**
 
-## 最终是模型训练与预测
+## 5 Model training / precition
 
-1. 运行主目录下的main.ipynb。得到测试集预测结果“test_result.csv”和应用数据预测结果“result.json”
-2. 运行visualization.ipynb。根据折线图决定最优阈值
+1. Run **'main.ipynb'** in the main folder to get prediction result of test set **'test_result.csv'** and prediction result of application set **'result.json'**
+2. Run **'visualization.ipynb'** to decide the decision threshold according to the line chart
+
+It should be explained more here. The decision threshold means that if we set it as x, for entity pairs with a bigger predition possibility (TRUE label) than x, we regard these pairs of entities as matched ones. Otherwise they will be predicted as unmatched entities.
+
+As the line chart shown below, the metrics **Accuracy**, **Precision**, and **Recall** keep changing with change of threshold. So, to balance these three metrics, we tend to choose 0.98619 as a good decision threshold for a better performance.
+
+  <div  align="center">  <img src="Images/line.png" width = "100%" height = "100%" /> </div>
+
+
+  
