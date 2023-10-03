@@ -60,7 +60,7 @@ The preprocess of data is divided into 2 stages - making **training** data / pai
 
 It should be explained more here. The decision threshold means that if we set it as x, for entity pairs with a bigger predition possibility (TRUE label) than x, we regard these pairs of entities as matched ones. Otherwise they will be predicted as unmatched entities.
 
-As the line chart shown below, the metrics **Accuracy**, **Precision**, and **Recall** keep changing with change of threshold. So, to balance these three metrics, we tend to choose 0.98619 as a good decision threshold for a better performance.
+As the line chart shown below, the metrics **Accuracy**, **Precision**, and **Recall** keep changing with change of threshold. So, to balance these three metrics, we tend to choose 0.88575 as a good decision threshold for a better performance.
 
   <div  align="center">  <img src="Images/line.png" width = "100%" height = "100%" /> </div>
 
